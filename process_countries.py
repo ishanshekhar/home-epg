@@ -27,34 +27,35 @@ def load_country_mappings(json_file="epg_sources.json"):
         print(f"Error loading country mappings: {e}")
         return {}
 
-def clear_data_directories():
-    """Clear all EPG data, export files, and playlist data"""
-    directories_to_clear = [
-        "export_epg",
-        "epg_data",
-        "playlists"
-    ]
+def clear_data_directories(clear_exports=False):
+    """Clear data directories before processing
     
-    for directory in directories_to_clear:
-        if os.path.exists(directory):
-            print(f"Clearing directory: {directory}")
-            try:
-                # Remove all files in the directory
-                for filename in os.listdir(directory):
-                    file_path = os.path.join(directory, filename)
-                    if os.path.isfile(file_path):
-                        os.unlink(file_path)
-                    elif os.path.isdir(file_path):
-                        shutil.rmtree(file_path)
-                print(f"Successfully cleared {directory}")
-            except Exception as e:
-                print(f"Error clearing {directory}: {e}")
-        else:
-            print(f"Directory does not exist, will be created: {directory}")
-            try:
-                os.makedirs(directory, exist_ok=True)
-            except Exception as e:
-                print(f"Error creating directory {directory}: {e}")
+    Args:
+        clear_exports: Whether to also clear export files
+    """
+    # Clear EPG data
+    if os.path.exists('epg_data'):
+        print("Clearing EPG data directory...")
+        for file in os.listdir('epg_data'):
+            file_path = os.path.join('epg_data', file)
+            if os.path.isfile(file_path):
+                os.unlink(file_path)
+    
+    # Clear playlist data
+    if os.path.exists('playlist_data'):
+        print("Clearing playlist data directory...")
+        for file in os.listdir('playlist_data'):
+            file_path = os.path.join('playlist_data', file)
+            if os.path.isfile(file_path):
+                os.unlink(file_path)
+    
+    # Only clear export files if specifically requested
+    if clear_exports and os.path.exists('export_epg'):
+        print("Clearing export EPG directory...")
+        for file in os.listdir('export_epg'):
+            file_path = os.path.join('export_epg', file)
+            if os.path.isfile(file_path):
+                os.unlink(file_path)
 
 def run_match_channels(country_prefix, playlist_url, force_download=False):
     """Run match_channels.py for a specific country"""
@@ -104,7 +105,7 @@ def main():
     # Clear data if requested
     if args.clear_data:
         print("Clearing all data directories before processing...")
-        clear_data_directories()
+        clear_data_directories(clear_exports=False)
     
     # Load country mappings
     country_mappings = load_country_mappings()
