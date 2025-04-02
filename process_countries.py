@@ -34,7 +34,7 @@ def clear_data_directories(clear_exports=False):
         clear_exports: Whether to also clear export files
     """
     # Clear EPG data
-    if os.path.exists('epg_data'):
+    if clear_exports and os.path.exists('epg_data'):
         print("Clearing EPG data directory...")
         for file in os.listdir('epg_data'):
             file_path = os.path.join('epg_data', file)
@@ -42,18 +42,10 @@ def clear_data_directories(clear_exports=False):
                 os.unlink(file_path)
     
     # Clear playlist data
-    if os.path.exists('playlist_data'):
+    if clear_exports and os.path.exists('playlist_data'):
         print("Clearing playlist data directory...")
         for file in os.listdir('playlist_data'):
             file_path = os.path.join('playlist_data', file)
-            if os.path.isfile(file_path):
-                os.unlink(file_path)
-    
-    # Only clear export files if specifically requested
-    if clear_exports and os.path.exists('export_epg'):
-        print("Clearing export EPG directory...")
-        for file in os.listdir('export_epg'):
-            file_path = os.path.join('export_epg', file)
             if os.path.isfile(file_path):
                 os.unlink(file_path)
 
@@ -98,7 +90,7 @@ def main():
     parser.add_argument('--countries', nargs='+', help='List of country codes to process (default: all countries in epg_sources.json)')
     parser.add_argument('--playlist-url', default=DEFAULT_PLAYLIST_URL, help='URL to download the playlist from')
     parser.add_argument('--force-download', action='store_true', help='Force download of playlist even if recent file exists')
-    parser.add_argument('--clear-data', action='store_true', help='Clear all EPG data, export files, and playlist data before running')
+    parser.add_argument('--clear-data', action='store_true', help='Clear all EPG data, and playlist data before running')
     
     args = parser.parse_args()
     

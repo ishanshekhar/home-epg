@@ -6,6 +6,11 @@
 /epg_data/
 /playlists/
 /playlist_data/
+
+# Exception: Always track export_epg files
+!/export_epg/
+!/export_epg/*.xml
+
 # Python related
 __pycache__/
 *.py[cod]
