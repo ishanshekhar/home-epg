@@ -6,6 +6,8 @@
 /epg_data/
 /playlists/
 /playlist_data/
+/logs/
+/scripts/
 
 # Exception: Always track export_epg files
 !/export_epg/

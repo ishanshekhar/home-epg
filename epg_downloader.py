@@ -5,14 +5,8 @@ import json
 import gzip
 import shutil
 import requests
-import xml.etree.ElementTree as ET
+import re
 from datetime import datetime
-from match_channels import (
-    load_playlist_channels, 
-    match_channels, 
-    generate_filtered_epg_xml,
-    generate_consolidated_epg_xml
-)
 
 # Default configuration file
 DEFAULT_CONFIG_FILE = "epg_sources.json"
@@ -22,9 +16,27 @@ DEFAULT_OUTPUT_DIR = "epg_data"
 def load_config(config_file):
     """Load EPG source URLs from a JSON configuration file"""
     try:
+        if not os.path.exists(config_file):
+            print(f"Error: Configuration file '{config_file}' not found.")
+            return None
+        
         with open(config_file, 'r') as f:
             config = json.load(f)
+        
+        # Check if the config has the expected structure
+        if "epg_sources" not in config:
+            print(f"Error: Configuration file '{config_file}' does not contain 'epg_sources' key.")
+            return None
+        
+        if not config["epg_sources"] or not isinstance(config["epg_sources"], list):
+            print(f"Error: No EPG sources found in '{config_file}'.")
+            return None
+        
+        print(f"Loaded {len(config['epg_sources'])} EPG sources from '{config_file}'")
         return config
+    except json.JSONDecodeError:
+        print(f"Error: '{config_file}' is not a valid JSON file.")
+        return None
     except Exception as e:
         print(f"Error loading configuration file: {e}")
         return None
@@ -37,6 +49,13 @@ def download_epg_file(url, output_dir):
         
         # Extract filename from URL
         filename = os.path.basename(url)
+        if '?' in filename:  # Handle URLs with query parameters
+            filename = filename.split('?')[0]
+        
+        # If no filename could be extracted, create one based on the URL
+        if not filename:
+            filename = f"epg_{datetime.now().strftime('%Y%m%d_%H%M%S')}.xml.gz"
+        
         output_path = os.path.join(output_dir, filename)
         
         print(f"Downloading {url}...")
@@ -50,6 +69,9 @@ def download_epg_file(url, output_dir):
         
         print(f"Downloaded to {output_path}")
         return output_path
+    except requests.exceptions.RequestException as e:
+        print(f"Error downloading {url}: {e}")
+        return None
     except Exception as e:
         print(f"Error downloading {url}: {e}")
         return None
@@ -70,80 +92,100 @@ def decompress_gz_file(gz_file_path, output_dir):
                 shutil.copyfileobj(f_in, f_out)
         
         print(f"Decompressed to {output_path}")
+        
+        # Remove the compressed file after successful decompression
+        os.remove(gz_file_path)
+        print(f"Removed compressed file: {gz_file_path}")
+        
         return output_path
     except Exception as e:
         print(f"Error decompressing {gz_file_path}: {e}")
         return None
 
-def process_epg_files(epg_files, playlist_file, output_dir, threshold=70, only_perfect=False):
-    """Process multiple EPG files and generate a consolidated filtered EPG"""
-    # Load playlist channels
-    playlist_channels = load_playlist_channels(playlist_file)
-    if not playlist_channels:
-        print("No playlist channels loaded. Exiting.")
-        return False
+def extract_country_code(filename):
+    """Extract country code from filename"""
+    # Look for patterns like _UK_, _IN_, etc.
+    match = re.search(r'_([A-Z]{2})(?:_|[0-9])', filename)
+    if match:
+        return match.group(1)
     
-    all_matches = []
+    # Try to extract from patterns like uk/, in/, us/ in the URL path
+    match = re.search(r'\/([a-z]{2})\/[^\/]+$', filename)
+    if match:
+        return match.group(1).upper()
     
-    # Process each EPG file
-    for epg_file in epg_files:
-        if not os.path.exists(epg_file):
-            print(f"EPG file not found: {epg_file}")
+    return None
+
+def download_epgs(config_file=DEFAULT_CONFIG_FILE, output_dir=DEFAULT_OUTPUT_DIR):
+    """Download EPG files from configured sources"""
+    # Load configuration
+    config = load_config(config_file)
+    if not config:
+        print(f"Creating a default configuration file: {config_file}")
+        config = {
+            "epg_sources": [
+            ]
+        }
+        try:
+            with open(config_file, 'w') as f:
+                json.dump(config, f, indent=4)
+            print(f"Default configuration saved to {config_file}")
+            print("You can edit this file to add your own EPG sources.")
+        except Exception as e:
+            print(f"Error creating default configuration file: {e}")
+            return []
+    
+    # Download and decompress EPG files
+    epg_files = []
+    country_files = {}
+    
+    for url in config.get("epg_sources", []):
+        downloaded_file = download_epg_file(url, output_dir)
+        if not downloaded_file:
             continue
-        
-        print(f"\nProcessing EPG file: {epg_file}")
-        # Match channels for this EPG file
-        matches = match_channels(playlist_channels, epg_file, threshold)
-        
-        # Add source information to matches
-        for match in matches:
-            if match.get('epg_match'):
-                match['source_file'] = os.path.basename(epg_file)
-        
-        # Add to all matches
-        all_matches.extend(matches)
-    
-    # Create a consolidated list of unique playlist channels with their best matches
-    consolidated_matches = {}
-    for match in all_matches:
-        playlist_channel_name = match['playlist_channel']['name']
-        
-        # If this channel already exists in consolidated_matches, check if the new match is better
-        if playlist_channel_name in consolidated_matches:
-            existing_match = consolidated_matches[playlist_channel_name]
             
-            # If the existing match has no EPG match, or the new match has a better score
-            if (not existing_match.get('epg_match') and match.get('epg_match')) or \
-               (existing_match.get('epg_match') and match.get('epg_match') and 
-                match['epg_match']['score'] > existing_match['epg_match']['score']):
-                consolidated_matches[playlist_channel_name] = match
+        if downloaded_file.endswith('.gz'):
+            decompressed_file = decompress_gz_file(downloaded_file, output_dir)
+            if decompressed_file:
+                epg_files.append(decompressed_file)
+                
+                # Extract country code and organize files by country
+                country_code = extract_country_code(url) or extract_country_code(os.path.basename(decompressed_file))
+                if country_code:
+                    if country_code not in country_files:
+                        country_files[country_code] = []
+                    country_files[country_code].append(decompressed_file)
         else:
-            consolidated_matches[playlist_channel_name] = match
+            epg_files.append(downloaded_file)
+            
+            # Extract country code and organize files by country
+            country_code = extract_country_code(url) or extract_country_code(os.path.basename(downloaded_file))
+            if country_code:
+                if country_code not in country_files:
+                    country_files[country_code] = []
+                country_files[country_code].append(downloaded_file)
     
-    # Convert back to list
-    final_matches = list(consolidated_matches.values())
-    
-    # Generate timestamp for the output file
-    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-    output_file = os.path.join(output_dir, f"consolidated_epg_{timestamp}.xml")
-    
-    # Generate the consolidated filtered EPG XML
-    success = generate_consolidated_epg_xml(final_matches, epg_files, output_file, only_perfect)
-    
-    if success:
-        print(f"\nConsolidated EPG file generated: {output_file}")
+    # Print summary
+    if epg_files:
+        print("\nDownloaded EPG files:")
+        for file in epg_files:
+            print(f"  - {file}")
+        
+        print("\nFiles by country:")
+        for country, files in country_files.items():
+            print(f"  {country}: {len(files)} file(s)")
+            for file in files:
+                print(f"    - {os.path.basename(file)}")
     else:
-        print("\nFailed to generate consolidated EPG file.")
+        print("No EPG files were successfully downloaded.")
+        print("Please check your internet connection and the URLs in your configuration file.")
     
-    return success
+    return epg_files
 
 def main():
     # Parse command line arguments
     config_file = DEFAULT_CONFIG_FILE
     output_dir = DEFAULT_OUTPUT_DIR
-    playlist_file = None
-    threshold = 70
-    only_perfect = False
     
     i = 1
     while i < len(sys.argv):
@@ -154,62 +196,11 @@ def main():
         elif arg == "--output-dir" and i + 1 < len(sys.argv):
             output_dir = sys.argv[i + 1]
             i += 2
-        elif arg == "--playlist" and i + 1 < len(sys.argv):
-            playlist_file = sys.argv[i + 1]
-            i += 2
-        elif arg == "--threshold" and i + 1 < len(sys.argv):
-            try:
-                threshold = int(sys.argv[i + 1])
-            except ValueError:
-                print(f"Invalid threshold value: {sys.argv[i + 1]}")
-            i += 2
-        elif arg == "--only-perfect":
-            only_perfect = True
-            i += 1
         else:
             i += 1
     
-    # Check if playlist file is provided
-    if not playlist_file:
-        print("Error: Playlist file is required. Use --playlist to specify the file.")
-        print("Usage: python epg_downloader.py --playlist playlist.m3u [options]")
-        print("Options:")
-        print("  --config CONFIG_FILE    Specify the configuration file (default: epg_sources.json)")
-        print("  --output-dir DIR        Specify the output directory (default: epg_data)")
-        print("  --threshold N           Set the matching threshold (default: 70)")
-        print("  --only-perfect          Include only perfect matches (100% score)")
-        return
-    
-    # Load configuration
-    config = load_config(config_file)
-    if not config:
-        print(f"Creating a default configuration file: {config_file}")
-        config = {
-            "epg_sources": []
-        }
-        try:
-            with open(config_file, 'w') as f:
-                json.dump(config, f, indent=4)
-            print(f"Default configuration saved to {config_file}")
-        except Exception as e:
-            print(f"Error creating default configuration file: {e}")
-            return
-    
-    # Download and decompress EPG files
-    epg_files = []
-    for url in config.get("epg_sources", []):
-        downloaded_file = download_epg_file(url, output_dir)
-        if downloaded_file and downloaded_file.endswith('.gz'):
-            decompressed_file = decompress_gz_file(downloaded_file, output_dir)
-            if decompressed_file:
-                epg_files.append(decompressed_file)
-    
-    if not epg_files:
-        print("No EPG files were successfully downloaded and decompressed.")
-        return
-    
-    # Process the EPG files
-    process_epg_files(epg_files, playlist_file, output_dir, threshold, only_perfect)
+    # Download EPG files
+    download_epgs(config_file, output_dir)
 
 if __name__ == "__main__":
     main() 
