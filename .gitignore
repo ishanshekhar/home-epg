@@ -8,6 +8,7 @@
 /playlist_data/
 /logs/
 /scripts/
+/data/
 
 # Exception: Always track export_epg files
 !/export_epg/
@@ -48,4 +49,8 @@ env/
 
 # OS related
 .DS_Store
-Thumbs.db 
+Thumbs.db
+
+# Docker related
+docker/data/
+docker/.env 

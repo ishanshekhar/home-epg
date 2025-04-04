@@ -1,0 +1,13 @@
+version: '3'
+
+services:
+  epg-updater:
+    build: .
+    environment:
+      - GIT_USERNAME=${GIT_USERNAME}
+      - GIT_PASSWORD=${GIT_PASSWORD}
+    volumes:
+      # Mount local data directory to persist output
+      - ./data:/app/home-epg/export_epg
+      # Mount local my_channels directory to use updated channel files
+      - ./my_channels:/app/home-epg/my_channels 

@@ -160,6 +160,13 @@ def load_playlist_channels(file_path, country_prefix=None):
         logger.error(f"Error loading playlist: {e}")
         return []
 
+def clean_site_name(site_name):
+    """Clean site name by removing anything after an underscore"""
+    # If the site name contains an underscore, keep only the part before it
+    if '_' in site_name:
+        return site_name.split('_')[0]
+    return site_name
+
 def load_channel_mappings(channels_dir):
     """Load channel mappings from XML files in the channels directory"""
     if not os.path.exists(channels_dir):
@@ -184,7 +191,8 @@ def load_channel_mappings(channels_dir):
             root = tree.getroot()
             
             # Extract site name from filename (e.g., abc.com.channels.xml -> abc.com)
-            site_name = xml_file.replace('.channels.xml', '')
+            raw_site_name = xml_file.replace('.channels.xml', '')
+            site_name = clean_site_name(raw_site_name)
             
             # Process each channel element
             channel_count = 0
@@ -349,6 +357,13 @@ def generate_channel_list_xml(matches, output_file, country_prefix=None):
             else:
                 channel_text = channel['name']
             
+            # Escape special characters in attributes and text
+            site = escape_xml(site)
+            lang = escape_xml(lang)
+            xmltv_id = escape_xml(xmltv_id)
+            site_id = escape_xml(site_id)
+            channel_text = escape_xml(channel_text)
+            
             # Create the channel element string
             channel_line = f'  <channel site="{site}" lang="{lang}" xmltv_id="{xmltv_id}" site_id="{site_id}">{channel_text}</channel>'
             lines.append(channel_line)
@@ -363,10 +378,40 @@ def generate_channel_list_xml(matches, output_file, country_prefix=None):
         
         elapsed_time = time.time() - start_time
         logger.info(f"Generated channel list XML with {matched_count} channels in {elapsed_time:.2f} seconds")
+        
+        # Validate the XML file
+        validate_xml(output_file)
+        
         return True
     except Exception as e:
         logger.error(f"Error generating channel list XML: {e}")
         return False
+
+def escape_xml(text):
+    """Escape special characters in XML"""
+    if not isinstance(text, str):
+        text = str(text)
+    
+    # Replace special characters with their XML entities
+    text = text.replace('&', '&amp;')
+    text = text.replace('<', '&lt;')
+    text = text.replace('>', '&gt;')
+    text = text.replace('"', '&quot;')
+    text = text.replace("'", '&apos;')
+    
+    # Remove any control characters that are invalid in XML
+    text = ''.join(c for c in text if ord(c) >= 32 or c in '\n\r\t')
+    
+    return text
+
+def validate_xml(file_path):
+    """Validate XML file and log any issues"""
+    try:
+        ET.parse(file_path)
+        logger.info(f"XML validation successful: {file_path}")
+    except ET.ParseError as e:
+        logger.error(f"XML validation failed: {e}")
+        logger.error(f"Please check the file for errors: {file_path}")
 
 def export_unmatched_channels(matches, output_file="unmatched_channels.log"):
     """Export unmatched channels to a log file"""
