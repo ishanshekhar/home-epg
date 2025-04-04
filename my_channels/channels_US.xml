@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WPBFDT1.us" site_id="abc-wpbf-west-palm-beach-fl/2305">US: ABC 25 WEST PALM BEACH FL (WPBF)</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="abc-wvaw-charlottesville-va/4170">US: ABC 16 CHARLOTTESVILLE VA (WVAW)</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KRDODT1.us" site_id="abc-krdo-colorado-springs-co/3341">US: ABC 13 COLORADO SPRINGS (KRDO)</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KJCTLP1.us" site_id="abc-kjct-grand-junction-co/1933">US: ABC 8 GRAND JUNCTION CO (KJCT)</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KGODT1.us" site_id="abc-kgo-san-francisco-ca/2148">US: ABC 7 SAN FRANCISCO CA (KGO)</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KOCODT1.us" site_id="abc-koco-oklahoma-city-ok/1503">US: ABC 5 OKLAHOMA CITY OK (KOCO)</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KEYTDT1.us" site_id="abc-keyt-santa-barbara-ca/2308">US: ABC 3 SANTA BARBARA CA (KEYT)</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KIIIDT1.us" site_id="abc-kiii-corpus-christi-tx/3090">US: ABC 3 CORPUS CHRISTI TX (KIII)</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="FoxSports1.us" site_id="9233008440">US: FOX Sports UHD</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="DestinationAmerica.us" site_id="9200009245">US: DESTINATION AMERICA</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="AEEast.us" site_id="9200004889">US: A&amp;E HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="US1#ABC.NEWS.us">US: ABC News</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="ACCNetwork.us" site_id="9200017734">US: ACC HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="adult-swim-usa/36223">US: Adult Swim</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#Al.Jazeera.HD.uk">US: AL JAZEERA HD</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="AMCEast.us" site_id="9233011832">US: AMC</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="" site_id="10000000000320000">US: ANIMAL PLANET</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="antenna--network/16820">US: Antenna Tv</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="BBCAmericaEast.us" site_id="9200014701">US: BBC America</channel>
+  <channel site="nowplayer.now.com" lang="en" xmltv_id="beINSports2.hk" site_id="639">US: BEIN SPORTS N FHD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="beINSportsUSA.us" site_id="bein-sport-usa/10853">US: BEIN SPORTS US</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="bein-sports-xtra/34594">US: BEIN SPORTS XTRA FHD</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="BETEast.us" site_id="9233005931">US: BET</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="BETHerEast.us" site_id="9200020665">US: BET Her</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="BigTenNetwork.us" site_id="9200004533">US: Big Ten Network HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#Bloomberg.HD.uk">US: BLOOMBERG TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#Boomerang.HD.uk">US: Boomerang</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="bounce-hd/33740">US: Bounce Tv</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="BravoEast.us" site_id="9200002886">US: Bravo HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="buzzr-tv/15543">US: Buzzer</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="c-span-2/1050">US: C-SPAN 1 HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="c-span-2/1050">US: C-SPAN 2 HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="c-span-3/3423">US: C-SPAN 3 HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#Capital.uk">US: CAPITAL TV</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="CartoonNetwork.in" site_id="10000000000760000">US: CARTOON NETWORK</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="cbsn/32828">US: CBS HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="CBCNewsNetwork.ca" site_id="cbc-news-network/74">US: CBS News HD</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="CBSSportsNetworkUSA.us" site_id="9233013235">US: CBS Sport Network HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="cbn-news-channel/33107">US: CBSN News</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="cheddar-news/33695">US: CHEDDAR News HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="marquee-sports-network/34880">US: Marquee Sports Network</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="cinemax--east/639">US: Cinemax East</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="cinemax--east/639">US: Cinemax West</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="city--network/2186">US: CITY HD</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="CMTEast.us" site_id="9200012085">US: CMT HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#CNBC.uk">US: CNBC HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#CNN.uk">US: CNN HD</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="ComedyCentralEast.us" site_id="9200000657">US: COMEDY CENTRAL</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="CookingChannel.us" site_id="9200000016">US: Cooking Channel</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#Court.TV.uk">US: Court TV</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="cozi--network/33436">US: COZI Tv</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="CrimePlusInvestigation.us" site_id="9233003673">US: Crime &amp; Investigation HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="cw--network-hd/20359">US: CW HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#DAYSTAR.HD.uk">US: DAYSTAR TV</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="olympic-channel/2086">US: Olympic Channel FHD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="FoxDeportes.us" site_id="fox-deportes/1827">US: FOX DEPORTES HD</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="DiscoveryChannel.in" site_id="10000000000310000">US: DISCOVERY CHANNEL HD</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="DiscoveryFamily.us" site_id="9200004290">US: Discovery Family</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="" site_id="159011">US: Discovery ID HD</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="DiscoveryLife.us" site_id="9233013857">US: Discovery Life HD</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="" site_id="159107">US: Discovery Science HD</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="DisneyChannel.in" site_id="10000000000340000">US: Disney HD</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="" site_id="142990">US: DISNEY JR HD</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="DisneyXDEast.us" site_id="9200004852">US: Disney XD HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="diya-tv/15229">US: DIY HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="youtoo-america/1012">US: Youtoo America FHD</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="EEast.us" site_id="9200012343">US: E! Network HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="el-rey-network/11399">US: EL Rey Network HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="escapes-network/10405">US: Escape</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="ESPN.us" site_id="9200006937">US: ESPN</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="ESPN2.us" site_id="9200012351">US: ESPN 2 HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="HopeChannelNorthAmerica.us" site_id="hope-channel/6827">US: Hope Channel</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="ESPNClassic.us" site_id="espn-classics-usa/1077">US: ESPN Classic HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="ESPNCollegeExtra1.us" site_id="espn-college-extra-1/9982">US: ESPN COLLEGE EXTRA 1 HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="ESPNCollegeExtra2.us" site_id="espn-college-extra-2/15433">US: ESPN COLLEGE EXTRA 2 HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="ESPNCollegeExtra3.us" site_id="espn-college-extra-3/15435">US: ESPN COLLEGE EXTRA 3 HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="ESPNCollegeExtra4.us" site_id="espn-college-extra-4/15437">US: ESPN COLLEGE EXTRA 4 HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="ESPNCollegeExtra5.us" site_id="espn-college-extra-5/15439">US: ESPN COLLEGE EXTRA 5 HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="ESPNCollegeExtra6.us" site_id="espn-college-extra-6/15441">US: ESPN COLLEGE EXTRA 6 HD</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="ESPNews.us" site_id="9200006950">US: ESPN NEWS</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="ESPNU.us" site_id="espn-u/3331">US: ESPN U HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fight-network-usa/14143">US: Fight Network / MMA Network</channel>
+  <channel site="tv24.se" lang="sv" xmltv_id="" site_id="fight-sports-hd">US: Fight Sport</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#Food.Network.uk">US: FOOD NETWORK</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="FoxBusinessNetwork.us" site_id="9200009124">US: Fox Bussines Network</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="FoxDeportes.us" site_id="fox-deportes/1827">US: FOX Deportes HD</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="FoxNewsChannel.us" site_id="9233000410">US: Fox News</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="FoxSoccerPlus.us" site_id="fox-soccer-plus/7538">US: Fox Soccer Plus HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="FoxSoccerPlus.us" site_id="fox-soccer-plus/7538">US: FOX SOCCER SUN HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="bally-sports-sun/4816">US: Bally Sports North HD</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="FoxSports1.us" site_id="9233008440">US: FOX SPORTS ONE</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="bally-sports-sun/4816">US: Bally Sports South HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="bally-sports-sun/4816">US: Bally Sports Sun HD</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="FoxSports1.us" site_id="9233008440">US: FOX SPORTS TWO HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="bally-sports-sun/4816">US: Bally Sports West HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fubo-sports/35601">US: Fubo Sports Network HD</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="FuseEast.us" site_id="9233011488">US: Fuse</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fusion/11294">US: Fusion</channel>
+  <channel site="tv24.se" lang="en" xmltv_id="FashionTVEurope.fr" site_id="ftv-hd">US: FUTV FHD</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="FXEast.us" site_id="9200006932">US: FX HD</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="FXMovieChannel.us" site_id="9233013967">US: FX Movie</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="FXXEast.us" site_id="9200018644">US: FXX</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="FYIEast.us" site_id="9200020460">US: FYI</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#U.and.Gold.uk">US: GOL TV HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="Grit.us" site_id="grit-network/14377">US: Grit</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="HallmarkChannelEast.us" site_id="9200016034">US: HALLMARK HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="HallmarkMoviesMysteriesWest.us" site_id="hallmark-movies--mysteries--pacific/11414">US: Hallmark Movies &amp; Mysteries</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="HBOComedyEast.us" site_id="9200006981">US: HBO COMEDY HD</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="HBOFamilyEast.us" site_id="9200004595">US: HBO Family HD</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="HBOEast.us" site_id="9200004886">US: HBO HD</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="HBOSignatureEast.us" site_id="9233008160">US: HBO SIGNATURE</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="HBOZoneEast.us" site_id="9233009866">US: HBO ZONE</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#Heart.uk">US: HEART TV</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="hi--heroes--icons-network/14969">US: Heroes &amp; Icons HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#HGTV.uk">US: HGTV HD</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="HistoryEast.us" site_id="9233008002">US: HISTORY HD</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="IFCEast.us" site_id="9200004303">US: IFC HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#iON.TV.uk">US: ION TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#Lifetime.HD.uk">US: LIFE TIME</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#Lifetime.HD.uk">US: LIFETIME HD</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="LifetimeMoviesEast.us" site_id="9233009825">US: LMN HD</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="LogoEast.us" site_id="9233013354">US: Logo TV</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="mlb-extra-innings-1/2759">US: MLB Extra Innings 721 HD US</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="mlb-extra-innings-2/2760">US: MLB Extra Innings 722 HD US</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="mlb-extra-innings-2/2760">US: MLB Extra Innings 723 HD US</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="mlb-extra-innings-2/2760">US: MLB Extra Innings 724 HD US</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="mlb-extra-innings-2/2760">US: MLB Extra Innings 725 HD US</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="mlb-extra-innings-2/2760">US: MLB Extra Innings 726 HD US</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="mlb-extra-innings-2/2760">US: MLB Extra Innings 727 HD US</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="mlb-extra-innings-2/2760">US: MLB Extra Innings 728 HD US</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="mlb-extra-innings-2/2760">US: MLB Extra Innings 729 HD US</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="mlb-extra-innings-3/2761">US: MLB Extra Innings 730 HD US</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="mlb-extra-innings-1/2759">US: MLB Extra Innings 731 HD US</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="mlb-extra-innings-2/2760">US: MLB Extra Innings 732 HD US</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="mlb-extra-innings-3/2761">US: MLB Extra Innings 733 HD US</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="mlb-extra-innings-3/2761">US: MLB Extra Innings 734 HD US</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="mlb-extra-innings-3/2761">US: MLB Extra Innings 735 HD US</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="mlb-extra-innings-3/2761">US: MLB Extra Innings 736 HD US</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="MLBNetwork.us" site_id="9200009223">US: MLB HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="HDNetMovies.us" site_id="hdnet-movies/4267">US: HDNET Movies HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="msg-2/31490">US: MSG 2 HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="MSGPlus.us" site_id="msg-plus/1088">US: MSG Plus</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="MSGPlus.us" site_id="msg-plus/1088">US: MSG Plus HD</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="MSNBC.us" site_id="9233006803">US: MSNBC HD</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="" site_id="159093">US: MTV HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#MTV.Live.HD.uk">US: MTV LIVE HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="nasa-4k/34466">US: NASA TV HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#Nat.Geo.HD.uk">US: NAT GEO HD</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="NationalGeographicWild.in" site_id="10000000005680000">US: Nat Geo Wild HD</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="NBATV.us" site_id="9200000070">US: NBA TV</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="nbc-sports-bay-area/1117">US: NBC Sports Bay Area</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="nbc-sports-california/2836">US: NBCSN CALIFORNIA HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="nbc-sports-philadelphia/10977">US: NBCSN PHILADELPHIA HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="news-12-long-island/20180">US: News 12 Long Island</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="US1#News.12.New.Jersey.us">US: News 12 New Jersey</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="NFLNetwork.us" site_id="9200004330">US: NFL Network HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="nfl-sunday-ticket-hd-5/4103">US: NFL SUNDAY TICKET 705 US</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="nfl-sunday-ticket-hd-6/3619">US: NFL SUNDAY TICKET 706 US</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="nfl-sunday-ticket-hd-7/3620">US: NFL SUNDAY TICKET 707 US</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="nfl-sunday-ticket-hd-7/3620">US: NFL SUNDAY TICKET 708 US</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="nfl-sunday-ticket-hd-7/3620">US: NFL SUNDAY TICKET 709 US</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="nfl-sunday-ticket-hd-10/8447">US: NFL SUNDAY TICKET 710 US</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="nfl-sunday-ticket-hd-11/9612">US: NFL SUNDAY TICKET 711 US</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="nfl-sunday-ticket-hd-12/9613">US: NFL SUNDAY TICKET 712 US</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="nfl-sunday-ticket-hd-13/9614">US: NFL SUNDAY TICKET 713 US</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="nfl-sunday-ticket-hd-14/9615">US: NFL SUNDAY TICKET 714 US</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="nfl-sunday-ticket-hd-15/9616">US: NFL SUNDAY TICKET 715 US</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="nfl-sunday-ticket-hd-16/9682">US: NFL SUNDAY TICKET 716 US</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="nfl-sunday-ticket-17/16305">US: NFL SUNDAY TICKET 717 US</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="US_SPORTS1#NHL-SanJoseSharks.us">US: NHL San Jose Sharks HD</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="NHLNetwork.us" site_id="9233009455">US: NHL NETWORK</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#NickelodeonHD.uk">US: NICKELODEON KIDS</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#Nicktoons.uk">US: NICKTOONS</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="star-tv/19868">US: Star Channel FHD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="OneAmericaNewsNetwork.us" site_id="one-america-news-network/12614">US: ONE AMERICA NETWORK</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="OutdoorChannel.us" site_id="9233003538">US: Outdoor HD</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="OuterMaxEast.us" site_id="9200014841">US: Outermax</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="OWNEast.us" site_id="9200002736">US: OWN HD</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="OxygenEast.us" site_id="9200004949">US: Oxygen</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="OxygenEast.us" site_id="9200004949">US: OxyGen HD</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="ParamountNetworkEast.us" site_id="9233013810">US: Paramount Network</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="pbs-kids-hd/33738">US: PBS Kids</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="" site_id="5e20b730f2f8d5003d739db7-64ac687b4192b4e1bab96279">US: Poker Go</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#POP.uk">US: Pop TV</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="pursuit-channel/10922">US: Pursuit Channel</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#QVC.HD.uk">US: QVC</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="Reelz.us" site_id="9200011769">US: Reelz</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="Revolt.us" site_id="revolt-tv/11301">US: REVOLT</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="rtpi-america/8980">US: RT America HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="rt-documentary/19848">US: RT DOCUMENTARY</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="BilliardTV.us" site_id="5e20b730f2f8d5003d739db7-6334a8e48a7b2a349d903b8c">US: Billiard TV</channel>
+  <channel site="tv24.se" lang="sv" xmltv_id="" site_id="fight-sports-hd">US: Fight Sports</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="FTFSports.us" site_id="5e20b730f2f8d5003d739db7-605a309dc5acdc002c7a20aa">US: FNTSY Sports Network</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="game/14464">US: Game+</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="local-sports/33395">US: Lax Sports Network</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="MotorTrend.us" site_id="9233003479">US: MotorTrend</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="the-cowboy-channel/1629">US: The cowboy Channel</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="movies/11047">US: Movie Channel FHD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="willow-cricket/15964">US: Willow Cricket HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="willow-cricket/15964">US: Willow Cricket Xtra</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="wfn-world-fishing-network/2414">US: World Fishing Network</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="SECNetwork.us" site_id="9233008517">US: SEC Network HD</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="ShowtimeShowcaseEast.us" site_id="9233003805">US: Showtime Showbets</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="ShowtimeExtremeEast.us" site_id="9200004879">US: Showtime Extreme HD</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="Showtime2East.us" site_id="9200018178">US: Showtime HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="Showtime2West.us" site_id="showtime-2-hd--pacific/7566">US: Showtime Pacific HD</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="ShowtimeShowcaseEast.us" site_id="9233003805">US: Showtime Showcase</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="ShowtimeWomenEast.us" site_id="9200002975">US: Showtime Women</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="SmithsonianChannelEast.us" site_id="9233002112">US: Smithsonian Channel</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="sny-sportsnet-new-york-hd/4713">US: SNY SportsNet New York FHD US</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="StarzCinemaEast.us" site_id="9233008357">US: Starz Cinema</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="StarzComedyEast.us" site_id="9233003558">US: Starz Comedy</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="starz1--east/55">US: Starz East</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="StarzEdgeEast.us" site_id="9233011247">US: Starz Edge HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="StarzEncoreEast.us" site_id="starz-encore-hd--eastern/6083">US: Starz Encore East</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="StarzEncoreEast.us" site_id="9200009649">US: Starz Encore HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="starz1--west/197">US: Starz West</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="SundanceTVEast.us" site_id="9233001687">US: Sundance Tv</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#SYFY.HD.uk">US: SYFY HD</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="TBSEast.us" site_id="9233000403">US: TBS HD</channel>
+  <channel site="tv24.co.uk" lang="en" xmltv_id="" site_id="turner-classic-movies">US: TCM</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="TeenNickEast.us" site_id="9200006974">US: Teen Nick HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="the-blaze/11549">US: The Blaze</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="TheWeatherChannel.us" site_id="9233013815">US: The Weather Channel</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="" site_id="158023">US: TLC HD</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="TNTEast.us" site_id="9233011830">US: TNT HD</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="TravelChannelEast.us" site_id="9233000035">US: TRAVEL CHANNEL</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="TVLandEast.us" site_id="9233005468">US: TV Land</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#TV.One.uk">US: TV One</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="UniversalKidsEast.us" site_id="9233003660">US: Universal Kids</channel>
+  <channel site="tvguide.com" lang="es" xmltv_id="UnivisionEast.us" site_id="9200000867">US: Univision</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="USANetworkEast.us" site_id="9233004106">US: USA Network</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="USANetworkEast.us" site_id="9233004106">US: USA Network HD</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="VH1East.us" site_id="9233000037">US: VH1</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="VH1East.us" site_id="9233000037">US: VH1 HD</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="WeTVEast.us" site_id="9200018188">US: We Tv</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="westerns4u/19864">US: Westerns 4 U</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="wfn-world-fishing-network/2414">US: World Fishing Network HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="wwe-network/14154">US: WWE Network</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="YesNetwork.us" site_id="yes-network/1953">US: YES HD</channel>
+  <channel site="tv24.se" lang="sv" xmltv_id="" site_id="freedom">US: FreeRom HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="cnbc-world/2664">US: CNBC World HD</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="FITE247.us" site_id="5e20b730f2f8d5003d739db7-62c8a2d2d774648bcc76a116">US: Fite TV 24/7</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="FoxSports1.us" site_id="9233008440">US: FOX Sport 1</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="FoxSports2.us" site_id="9200009884">US: FOX Sport 2</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="NBATV.us" site_id="9200000070">US: NBA TV</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="TBSEast.us" site_id="9233000403">US: TBS HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#SYFY.HD.uk">US: SYFY HD</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="NickelodeonEast.us" site_id="9200006939">US: NICKELODEN HD</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="CartoonNetwork.in" site_id="10000000000760000">US: Cartoon Network HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="cozi--network/33436">US: Cozi TV</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="StarzEdgeEast.us" site_id="9233011247">US: STARZ EDGE HD</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="StarzComedyEast.us" site_id="9233003558">US: Starz Comedy</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="SportsnetWorld.ca" site_id="sportsnet-world/4442">US: Sportsnet World HD</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="ShowtimeShowcaseEast.us" site_id="9233003805">US: Showtime Showcase</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="ShowtimeNextEast.us" site_id="9200016686">US: Showtime Next</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="ShowtimeExtremeEast.us" site_id="9200004879">US: Showtime Extreme</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="Showtime2East.us" site_id="9200018178">US: ShowTime 2 HD</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="Showtime2East.us" site_id="9200018178">US: ShowTime HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="cbsn/32828">US: CBS HD</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="NationalGeographic.in" site_id="10000000000170000">US: National Geographic HD</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="" site_id="157811">US: Investigation Discovery</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="HistoryEast.us" site_id="9233008002">US: HISTORY</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="HBOFamilyEast.us" site_id="9200004595">US: HBO Family</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#Food.Network.uk">US: Food Network HD</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="DiscoveryLife.us" site_id="9233013857">US: Discovery Life HD</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="DiscoveryChannel.in" site_id="10000000000310000">US: Discovery Channel HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="cinemax--east/639">US: Cinemax East</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="beINSportsUSA.us" site_id="bein-sport-usa/10853">US: Bein Sports USA HD</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="" site_id="10000000000320000">US: Animal Planet HD</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="HBOZoneEast.us" site_id="9233009866">US:  HBO Zone HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="hbo-west/6424">US: HBO East HD</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="FXEast.us" site_id="9200006932">US: FX HD</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="FoxBusinessNetwork.us" site_id="9200009124">US: FOX Business HD</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="ESPN.us" site_id="9200006937">US: ESPN HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="cw--network-hd/20359">US: CW HD</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="ComedyCentralEast.us" site_id="9200000657">US: COMEDY CENTRAL HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="buzzr-tv/15543">US: Buzzr</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="CBCNewsNetwork.ca" site_id="cbc-news-network/74">US: CBS News HD</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="BravoEast.us" site_id="9200002886">US: BRAVO HD</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="AMCEast.us" site_id="9233011832">US: AMC HD</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="AEEast.us" site_id="9200004889">US: A&amp;E TV HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#Lifetime.HD.uk">US: LIFE TIME HD</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="HBOSignatureEast.us" site_id="9233008160">US: HBO SIGNATURE</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="MSNBC.us" site_id="9233006803">US: MSNBC HD</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="HBOEast.us" site_id="9200004886">US: HBO HD</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="HallmarkChannelEast.us" site_id="9200016034">US: HALLMARK</channel>
+  <channel site="tv24.se" lang="sv" xmltv_id="History2Nordic.us" site_id="h2">US: H2</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="AEEast.us" site_id="9200004889">US: A&amp;E HD</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="BravoEast.us" site_id="9200002886">US: Bravo</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#CNN.uk">US: CNN HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="nbc-sports-network/1386">US: NBC SPORT</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="USANetworkEast.us" site_id="9233004106">US: USA Network HD</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="HBOFamilyEast.us" site_id="9200004595">US: HBO Family HD</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="StarzCinemaEast.us" site_id="9233008357">US: Starz Cinema HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="US1#ABC.NEWS.us">US: ABC News HD</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="ESPN.us" site_id="9200006937">US: ESPN</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="ESPN2.us" site_id="9200012351">US: ESPN 2 HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="wwe-network/14154">US: WWE HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="US1#AFN.movie.us">US: AFN Movie HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="US1#AFN.news.us">US: AFN News HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="US1#AFN.prime.Atlantic.us">US: AFN Prime Atlantic HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="US1#AFN.prime.Pacific.us">US: AFN Prime Pacific HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="US1#AFN.spectrum.us">US: AFN Spectrum HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="US1#AFN.sports2.us">US: AFN Sports 2 HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="US1#AFN.sports.us">US: AFN Sports HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="cw-kesq-tv11-palm-springs-ca/18430">US: CW 5 (KESQ-DT8) PALM SPRINGS</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="cw-kfmb-tv2-san-diego-ca/10264">US: CW 8 (KFMB-TV) SAN DIEGO</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="cw-kpax2-missoula-mt-hd/8950">US: CW 8 (KPAX) MISSOULA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="cw-kplr-st-louis-mo/2951">US: CW 11 (KPLR) ST LOUIS</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="cw-kyur-dt2-anchorage-ak-hd/9445">US: CW 13 (KYUR-DT2) ANCHORAGE</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="cw-wcwf-green-bay-wi/3159">US: CW 14 (WCWF) GREEN BAY</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="cw-wcwn-albany-ny/2699">US: CW 15 (WCWN) ALBANY</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WCWJDT1.us" site_id="cw-wcwj-jacksonville-fl/2046">US: CW 17 (WCWJ) JACKSONVILLE</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="cw-wccb-charlotte-nc/1818">US: CW 18 (WCCB) CHARLOTTE</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="cw-wccb-charlotte-nc/1818">US: CW 18 (WCCB) CHARLOTTE</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="cw-wvtv-milwaukee-wi/4275">US: CW 18 (WVTV) MILWAUKEE</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="cw-kqcw-tulsa-ok/3691">US: CW 19 (KQCW) TULSA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="cw-kpxj-shreveport-la/2299">US: CW 21 (KPXJ) SHREVEPORT</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="cw-wtto-birmingham-al/2520">US: CW 21 (WTTO) BIRMINGHAM</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="cw-wbmm-montgomery-al/6563">US: CW 22 (WBMM) MONTGOMERY</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WLFLDT1.us" site_id="cw-wlfl-raleigh-nc/1286">US: CW 22 (WLFL) RALEIGH</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="cw-kcwe-kansas-city-mo/2715">US: CW 29 (KCWE) KANSAS CITY</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="cw-kvcw-las-vegas-nv/2379">US: CW 33 (KVCW) LAS VEGAS</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="cw-kocb-oklahoma-city-ok/1505">US: CW 34 (KOCB) OKLAHOMA CITY</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="cw-wsee-dt2-erie-pa/5846">US: CW 35 (WSEE-DT2) ERIE</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="cw-wxcw-fort-myers-fl/2642">US: CW 46 (WXCW) FORT MY ERS</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="cw-wwho-columbus-oh/2993">US: CW 53 (WWHO) COLUMBUSA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="cw-wnuv-baltimore-md/3594">US: CW 54 (WNUV) BALTIMORE</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="cw-wlvi-boston-ma/1007">US: CW 56 (WLVI) BOSTON</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="pbs-knpb-reno-nv/1494">US: PBS (KNPB) NV</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="pbs-kqed-san-francisco-ca/2206">US: PBS (KQED) SAN FRANCISCO</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="pbs-wbra-roanoke-va/1327">US: PBS (WBRA) ROANOKE</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="pbs-wqln-erie-pa/208">US: PBS (WQLN) PA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="pbs-klcs-los-angeles-ca/2630">US: PBS 58 (KLCS) LOS ANGELES</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WETADT1.us" site_id="pbs-weta-hd-washington-dc/8180">US: PBS WASHINGTON DC</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="CBSEast.us" site_id="cbs--eastern/1225">US: CBS EAST HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KYWDT1.us" site_id="cbs-kyw-philadelphia-pa/1637">US: CBS 3 PHILADELPHIA PA (KYW)</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WWLDT1.us" site_id="cbs-wwl-new-orleans-la/1743">US: CBS 4 NEW ORLEANS LA (WWL)</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KPIXDT1.us" site_id="cbs-kpix-san-francisco-ca/2203">US: CBS 5 SAN FRANCISCO CA (KPIX)</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KAUZDT1.us" site_id="cbs-kauz-wichita-falls-tx/3150">US: CBS 6 WICHITA FALLS TX (KAUZ)</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KWTVDT1.us" site_id="cbs-kwtv-oklahoma-city-ok/1504">US: CBS 9 OKLAHOMA CITY OK (KWTV)</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KKTVDT1.us" site_id="cbs-kktv-colorado-springs-co/3339">US: CBS 11 COLORADO SPRINGS CO (KKTV)</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WPECDT1.us" site_id="cbs-wpec-west-palm-beach-fl/2304">US: CBS 12 WEST PALM BEACH FL (WPEC)</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WCAVDT1.us" site_id="cbs-wcav-charlottesville-va/3644">US: CBS 19 CHARLOTTESVILLE VA (WCAV)</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WYMTDT1.us" site_id="cbs-wymt-hazard-ky/1056">US: CBS 57 (WYMT) HAZARD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KTVUDT1.us" site_id="fox-ktvu-san-francisco-ca/2145">US: FOX 2 SAN FRANCISCO CA (KTVU)</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KFQXDT1.us" site_id="fox-kfqx-grand-junction-co/1986">US: FOX 4 GRAND JUNCTION CO (KFQX)</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WJWDT1.us" site_id="fox-wjw-cleveland-oh/217">US: FOX 8 CLEVELAND OH (WJW)</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WXMIDT1.us" site_id="fox-wxmi-grand-rapids-mi/1917">US: FOX 17 GRAND RAPIDS (WXMI)</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KXRMDT1.us" site_id="fox-kxrm-colorado-springs-co/3334">US: FOX 21 COLORADO SPRINGS CO (KXRM)</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-kgan2-cedar-rapids-ia/18542">US: FOX 28 CEDAR RAPIDS IA (KFXA)</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WFLXDT1.us" site_id="fox-wflx-west-palm-beach-fl/2306">US: FOX 29 WEST PALM BEACH (WFLX)</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox541-huntsville-al/3218">US: FOX 54 HUNTSVILLE AL (WZDX)</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KFDXDT1.us" site_id="nbc-kfdx-wichita-falls-tx/3149">US: NBC 3 WICHITA FALLS TX (KFDX)</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KOBDT1.us" site_id="nbc-kob-albuquerque-nm/4367">US: NBC 4 ALBUQUERQUE NM (KOB)</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WDIVDT1.us" site_id="nbc-wdiv-detroit-mi-dv/3946">US: NBC 4 DETROIT MI (WDIV)</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KFORDT1.us" site_id="nbc-kfor-oklahoma-city-ok/1502">US: NBC 4 OKLAHOMA CITY (KFOR)</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KSLDT1.us" site_id="nbc-ksl-salt-lake-city-ut/3717">US: NBC 5 SALT LAKE CITY UT (KSL)</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WPTVDT1.us" site_id="nbc-wptv-west-palm-beach-fl/2300">US: NBC 5 WEST PALM BEACH FL (WPTV)</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KRISDT1.us" site_id="nbc-kris-corpus-christi-tx/3092">US: NBC 6 CORPUS CHRISTI TX (KRIS)</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WPBNDT1.us" site_id="nbc-wpbn-traverse-city-mi/482">US: NBC 7 TRAVERSE CITY MI (WPBN)</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KVEODT1.us" site_id="nbc-kveo-brownsville-tx/3141">US: NBC 23 (KVEO) BROWNSVILLE</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WVIRDT1.us" site_id="nbc-wvir-charlottesville-va/2015">US: NBC 29 CHARLOTTESVILLE VA (WVIR)</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WRDELD1.us" site_id="nbc-wrde-salisbury-md/20003">US: NBC 31 (WRDE)  SALISBURY</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WCNCDT1.us" site_id="nbc-wcnc-charlotte-nc/1819">US: NBC 36 (WCNC) CHARLOTTE</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="US_SPORTS1#NHL-AnaheimDucks.us">US: NHL ANAHEIM DUCKS</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="US_SPORTS1#NHL-BostonBruins.us">US: NHL BOSTON BRUINS</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="US_SPORTS1#NHL-BuffaloSabres.us">US: NHL BUFFALO SABRES</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="US_SPORTS1#NHL-CalgaryFlames.us">US: NHL CALGARY FLAMES</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="US_SPORTS1#NHL-CarolinaHurricanes.us">US: NHL CAROLINA HURRICANES</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="US_SPORTS1#NHL-ChicagoBlackhawks.us">US: NHL CHICAGO BLACKHAWKS</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="US_SPORTS1#NHL-ColoradoAvalanche.us">US: NHL COLORADO AVALANCHE</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="US_SPORTS1#NHL-ColumbusBlueJackets.us">US: NHL COLUMBUS BLUE JACKETS</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="US_SPORTS1#NHL-DallasStars.us">US: NHL DALLAS STARS</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="US_SPORTS1#NHL-DetroitRedWings.us">US: NHL DETROIT RED WINGS</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="US_SPORTS1#NHL-EdmontonOilers.us">US: NHL EDMONTON OILERS</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="US_SPORTS1#NHL-FloridaPanthers.us">US: NHL FLORIDA PANTHERS</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="US_SPORTS1#NHL-LosAngelesKings.us">US: NHL LOS ANGELES KINGS</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="US_SPORTS1#NHL-MinnesotaWild.us">US: NHL MINNESOTA WILD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="US_SPORTS1#NHL-MontrealCanadiens.us">US: NHL MONTREAL CANADIENS</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="US_SPORTS1#NHL-NashvillePredators.us">US: NHL NASHVILLE PREDATORS</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="US_SPORTS1#NHL-NewJerseyDevils.us">US: NHL NEW JERSEY DEVILS</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="US_SPORTS1#NHL-NewYorkIslanders.us">US: NHL NEW YORK ISLANDERS</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="US_SPORTS1#NHL-NewYorkRangers.us">US: NHL NEW YORK RANGERS</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="US_SPORTS1#NHL-OttawaSenators.us">US: NHL OTTAWA SENATORS</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="US_SPORTS1#NHL-PhiladelphiaFlyers.us">US: NHL PHILADELPHIA FLYERS</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="US_SPORTS1#NHL-PittsburghPenguins.us">US: NHL PITTSBURGH PENGUINS</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="US_SPORTS1#NHL-SanJoseSharks.us">US: NHL SAN JOSE SHARKS</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="US_SPORTS1#NHL-SeattleKraken.us">US: NHL SEATTLE KRAKEN</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="US_SPORTS1#NHL-St.LouisBlues.us">US: NHL ST LOUIS BLUES</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="US_SPORTS1#NHL-TampaBayLightning.us">US: NHL TAMPA BAY LIGHTNING</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="US_SPORTS1#NHL-TorontoMapleLeafs.us">US: NHL TORONTO MAPLE LEAFS</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="US_SPORTS1#NHL-VancouverCanucks.us">US: NHL VANCOUVER CANUCKS</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="US_SPORTS1#NHL-VegasGoldenKnights.us">US: NHL VEGAS GOLDEN KNIGHTS</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="US_SPORTS1#NHL-WashingtonCapitals.us">US: NHL WASHINGTON CAPITALS</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="US_SPORTS1#NHL-WinnipegJets.us">US: NHL WINNIPEG JETS</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="FoxSports2.us" site_id="9200009884">US: Flo Sports 24/7</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="FoxSports2.us" site_id="9200009884">US: Flo Sports 2</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="FoxSports1.us" site_id="9233008440">US: Flo Sports 3</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="FoxSports1.us" site_id="9233008440">US: Flo Sports 4</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="FoxSports1.us" site_id="9233008440">US: Flo Sports 5</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="FoxSports1.us" site_id="9233008440">US: Flo Sports 6</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="FoxSports1.us" site_id="9233008440">US: Flo Sports 7</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="FoxSports1.us" site_id="9233008440">US: Flo Sports 8</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="FoxSports1.us" site_id="9233008440">US: Flo Sports 9</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="FoxSports1.us" site_id="9233008440">US: Flo Sports 10</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="FoxSports1.us" site_id="9233008440">US: Flo Sports 11</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="FoxSports1.us" site_id="9233008440">US: Flo Sports 12</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="FoxSports1.us" site_id="9233008440">US: Flo Sports 13</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="FoxSports1.us" site_id="9233008440">US: Flo Sports 14</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="FoxSports1.us" site_id="9233008440">US: Flo Sports 15</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="FoxSports1.us" site_id="9233008440">US: Flo Sports 16</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="FoxSports1.us" site_id="9233008440">US: Flo Sports 17</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="FoxSports1.us" site_id="9233008440">US: Flo Sports 18</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="FoxSports1.us" site_id="9233008440">US: Flo Sports 19</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="FoxSports2.us" site_id="9200009884">US: Flo Sports 20</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="FoxSports1.us" site_id="9233008440">US: Flo Sports 21</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="FoxSports2.us" site_id="9200009884">US: Flo Sports 22</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="FoxSports2.us" site_id="9200009884">US: Flo Sports 23</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="FoxSports2.us" site_id="9200009884">US: Flo Sports 24</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="FoxSports2.us" site_id="9200009884">US: Flo Sports 25</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="FoxSports2.us" site_id="9200009884">US: Flo Sports 26</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="FoxSports2.us" site_id="9200009884">US: Flo Sports 27</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="FoxSports2.us" site_id="9200009884">US: Flo Sports 28</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="FoxSports2.us" site_id="9200009884">US: Flo Sports 29</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="FoxSports1.us" site_id="9233008440">US: Flo Sports 31</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="FoxSports2.us" site_id="9200009884">US: Flo Sports 32</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="FoxSports1.us" site_id="9233008440">US: Flo Sports 41</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="FoxSports2.us" site_id="9200009884">US: Flo Sports 42</channel>
+</channels>

@@ -1,31 +1,45 @@
 #!/bin/bash
 set -e
 
-# Navigate to the EPG directory
+# Update EPG repository
 cd /app/epg
+git pull
 
-# Run the EPG grabber with the custom channels file
-npm run grab --- --channels=/app/home-epg/my_channels/channels_IN.xml --output=/app/home-epg/export_epg/IN_guide.xml
-
-# Run with test channels
-#npm run grab --- --channels=/app/home-epg/my_channels/test_channels.xml --output=/app/home-epg/export_epg/test_guide.xml
-
-# Navigate to the home-epg directory
+# Update home-epg repository
 cd /app/home-epg
-
-# Configure git to use credentials if provided
 if [ -n "$GIT_USERNAME" ] && [ -n "$GIT_PASSWORD" ]; then
     git config credential.helper '!f() { echo "username='$GIT_USERNAME'"; echo "password='$GIT_PASSWORD'"; }; f'
 fi
 
-# Get today's date for the commit message
-TODAY=$(date +"%Y-%m-%d")
+# Determine default branch
+DEFAULT_BRANCH="main"
+if git show-ref --verify --quiet refs/heads/master; then
+    DEFAULT_BRANCH="master"
+fi
 
-# Stage only the files in export_epg directory
-git add export_epg/
+git checkout $DEFAULT_BRANCH
+git pull origin $DEFAULT_BRANCH
+
+# Create export_epg directory if it doesn't exist
+mkdir -p /app/home-epg/export_epg
+
+# Run EPG grabber
+cd /app/epg
+npm run grab --- --channels=/app/home-epg/my_channels/channels_IN.xml --output=/app/home-epg/export_epg/IN_guide.xml
+npm run grab --- --channels=/app/home-epg/my_channels/test_channels.xml --output=/app/home-epg/export_epg/test_guide.xml
 
 # Commit and push changes
-git commit -m "EPG update: $TODAY" || echo "No changes to commit"
-git push origin master
+cd /app/home-epg
+git add export_epg/*.xml
+TODAY=$(date +"%Y-%m-%d")
+
+# Only commit if there are changes
+if ! git diff --cached --quiet; then
+    git commit -m "EPG update: $TODAY"
+    git push origin $DEFAULT_BRANCH
+    echo "Changes committed and pushed successfully"
+else
+    echo "No changes to commit"
+fi
 
 echo "EPG update completed successfully!" 

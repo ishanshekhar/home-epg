@@ -10,13 +10,10 @@ RUN apt-get update && apt-get install -y \
 # Set up working directory
 WORKDIR /app
 
-# Clone the repositories
-RUN git clone --depth 1 -b master https://github.com/iptv-org/epg.git && \
-    git clone https://github.com/ishanshekhar/home-epg.git
-
-# Install dependencies for the EPG repo
-WORKDIR /app/epg
-RUN npm install
+# Clone repositories and install dependencies
+RUN git clone --depth 1 https://github.com/iptv-org/epg.git && \
+    git clone https://github.com/ishanshekhar/home-epg.git && \
+    cd /app/epg && npm install
 
 # Set up git configuration for commits
 RUN git config --global user.email "docker@example.com" && \

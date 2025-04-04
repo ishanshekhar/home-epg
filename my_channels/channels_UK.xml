@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="SkySportsMainEventHD.uk" site_id="1229/sky-sports-main-event-hd">UK: Sky Sport Main Event UHD 4K</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="SkySportsMainEventHD.uk" site_id="1229/sky-sports-main-event-hd">UK: Sky Sport Main Event UHD 4K B</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="SkySportsF1HD.uk" site_id="1671/sky-sports-f1-hd">UK: Sky Sport F1 UHD 4K</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="SkySportsF1HD.uk" site_id="1671/sky-sports-f1-hd">UK: Sky Sport F1 UHD 4K B</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="SkySportsF1HD.uk" site_id="1671/sky-sports-f1-hd">UK: Sky Sport 1 UHD 4K</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="SkySportsF1HD.uk" site_id="1671/sky-sports-f1-hd">UK: Sky Sport 1 UHD 4K B</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="" site_id="2089/sky-sports-hd">UK: Sky Sport 2 UHD 4K</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#TNT.Sport.Ultimate.uk">UK: TNT Sport Ultimate 4K</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#TNT.Sport.Ultimate.uk">UK: TNT Sport Ultimate 4K (B)</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="" site_id="10000000051860000">UK: EUROSPORT 4K UHD</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCOne.uk" site_id="4/bbc-one">UK: BBC One UHD</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCOne.uk" site_id="4/bbc-one">UK: BBC One FHD</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCOne.uk" site_id="4/bbc-one">UK: BBC One</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#BBC.Two.HD.uk">UK: BBC Two FHD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#BBC.Three.HD.uk">UK: BBC Three FHD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#BBC.Four.HD.uk">UK: BBC Four FHD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#ITV1.HD.uk">UK: ITV FHD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#ITV2.HD.uk">UK: ITV 2 FHD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#ITV3.HD.uk">UK: ITV 3 FHD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#ITV4.HD.uk">UK: ITV 4 FHD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#Channel.4.uk">UK: Channel 4 FHD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#Channel.5.uk">UK: Channel 5 FHD</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="RTE2HD.ie" site_id="1648/rte2-hd">UK:  RTE 2 FHD</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="RTEjr.ie" site_id="1649/rte-jr">UK:  RTE Jr FHD</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="RTENews.ie" site_id="1650/rte-news">UK: RTE News FHD</channel>
+  <channel site="entertainment.ie" lang="en" xmltv_id="VirginMediaOne.ie" site_id="virgin-media-one">UK: Virgin Media One</channel>
+  <channel site="entertainment.ie" lang="en" xmltv_id="VirginMediaTwo.ie" site_id="virgin-media-two">UK: Virgin Media Two</channel>
+  <channel site="entertainment.ie" lang="en" xmltv_id="VirginMediaThree.ie" site_id="virgin-media-three">UK: Virgin Media Three</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#Sky.Atlantic.HD.uk">UK: Sky Atlantic HD</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="SkyCinemaActionHD.uk" site_id="1444/sky-cinema-action-hd">UK: Sky Cinema Action HD</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="SkyCinemaAnimationHD.uk" site_id="2327/sky-cinema-animation-hd">UK: Sky Cinema Animation HD</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="SkyCinemaComedyHD.uk" site_id="1449/sky-cinema-comedy-hd">UK: Sky Cinema Comedy HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#Sky.Cinema.Hits.HD.uk">UK: Sky Cinema Disney HD</channel>
+  <channel site="entertainment.ie" lang="en" xmltv_id="SkyCinemaDrama.uk" site_id="sky-cinema-drama">UK: Sky Cinema Drama HD</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="SkyCinemaFamilyHD.uk" site_id="1448/sky-cinema-family-hd">UK: Sky Cinema Family HD</channel>
+  <channel site="entertainment.ie" lang="en" xmltv_id="SkyCinemaGreats.uk" site_id="sky-cinema-greats">UK: Sky Cinema Greats HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#Sky.Cinema.Hits.HD.uk">UK: Sky Cinema Hits HD</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="SkyCinemaPremiereHD.uk" site_id="1417/sky-cinema-premiere-hd">UK: Sky Cinema Premiere HD</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="SkyCinemaSciFiHorrorHD.uk" site_id="1447/sky-cinema-sci-fihorror-hd">UK: Sky Cinema SC-FI &amp; Horror HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#Sky.Cinema.Select.uk">UK: Sky Cinema Select HD</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="SkyCinemaThrillerHD.uk" site_id="1537/sky-cinema-thriller-hd">UK: Sky Cinema Thriller HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#Sky.Documentaries.HD.uk">UK: Sky Documentary FHD</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="SkyHistoryHD.uk" site_id="1354/sky-history-hd">UK: Sky History FHD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#Sky.Nature.HD.uk">UK: Sky Nature FHD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#Sky.Witness.HD.uk">UK: Sky Witness HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#Sky.Crime.HD.uk">UK: Sky Crime FHD</channel>
+  <channel site="tv24.co.uk" lang="en" xmltv_id="" site_id="sony-movies-action">UK: Great! Movies Action</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="" site_id="1163/great-christmas">UK: Great! Movies Christmas</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#TNT.Sports.10.HD.uk">UK: TNT Sports 1 FHD P50</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#TNT.Sports.1.HD.uk">UK: TNT Sports 1 FHD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#TNT.Sports.1.HD.uk">UK: TNT Sports 1 HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#TNT.Sports.2.HD.uk">UK: TNT Sports 2 FHD P50</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#TNT.Sports.2.HD.uk">UK: TNT Sports 2 FHD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#TNT.Sports.2.HD.uk">UK: TNT Sports 2 HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#TNT.Sports.3.HD.uk">UK: TNT Sports 3 FHD P50</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#TNT.Sports.3.HD.uk">UK: TNT Sports 3 FHD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#TNT.Sports.3.HD.uk">UK: TNT Sports 3 HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#TNT.Sports.4.HD.uk">UK: TNT Sports 4 FHD P50</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#TNT.Sports.4.HD.uk">UK: TNT Sports 4 FHD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#TNT.Sports.4.HD.uk">UK: TNT Sports 4 HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#TNT.Sports.5.HD.uk">UK: TNT Sports 5 FHD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#TNT.Sports.6.HD.uk">UK: TNT Sports 6 FHD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#TNT.Sports.7.HD.uk">UK: TNT Sports 7 FHD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#TNT.Sports.8.HD.uk">UK: TNT Sports 8 FHD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#TNT.Sports.9.HD.uk">UK: TNT Sports 9 FHD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#TNT.Sports.10.HD.uk">UK: TNT Sports 10 FHD</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="" site_id="2134/tnt-sports-box-office">UK: TNT Sports Box Office HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#Eurosport.1.HD.uk">UK: Eurosport 1 FHD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#Eurosport.2.HD.uk">UK: Eurosport 2 FHD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#Premier.Sports.1.HD.uk">UK: Premier Sport 1 FHD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#Premier.Sports.2.HD.uk">UK: Premier Sport 2 FHD</channel>
+  <channel site="entertainment.ie" lang="en" xmltv_id="LaLigaTV.es" site_id="la-liga-tv">UK: LA LIGA HD</channel>
+  <channel site="tv24.co.uk" lang="en" xmltv_id="" site_id="sky-sports-news-hd-1">UK: Sky Sport News FHD P50</channel>
+  <channel site="tv24.co.uk" lang="en" xmltv_id="" site_id="sky-sports-news-hd-1">UK: Sky Sport News P50</channel>
+  <channel site="tv24.co.uk" lang="en" xmltv_id="" site_id="sky-sports-news-hd-1">UK: Sky Sport News FHD</channel>
+  <channel site="tv24.co.uk" lang="en" xmltv_id="" site_id="sky-sports-news-hd-1">UK: Sky Sport News HD</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="SkySportsMainEventHD.uk" site_id="1229/sky-sports-main-event-hd">UK: Sky Sport Main Event FHD P50</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="SkySportsMainEventHD.uk" site_id="1229/sky-sports-main-event-hd">UK: Sky Sport Main Event P50</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="SkySportsMainEventHD.uk" site_id="1229/sky-sports-main-event-hd">UK: Sky Sport Main Event FHD</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="SkySportsMainEventHD.uk" site_id="1229/sky-sports-main-event-hd">UK: Sky Sport Main Events HD</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="SkySportsPremierLeagueHD.uk" site_id="1890/sky-sports-premier-league-hd">UK: Sky Sport Premier League FHD P50</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="SkySportsPremierLeagueHD.uk" site_id="1890/sky-sports-premier-league-hd">UK: Sky Sport Premier League FHD</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="SkySportsPremierLeagueHD.uk" site_id="1890/sky-sports-premier-league-hd">UK: Sky Sport Premier League 4K</channel>
+  <channel site="virgintvgo.virginmedia.com" lang="en" xmltv_id="SkySportsPremierLeagueHD.uk" site_id="1787">UK: Sky Sport PL P50</channel>
+  <channel site="virgintvgo.virginmedia.com" lang="en" xmltv_id="SkySportsPremierLeagueHD.uk" site_id="1787">UK: Sky Sport PL HD</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="SkySportsCricketHD.uk" site_id="1285/sky-sports-cricket-hd">UK: Sky Sport Cricket FHD P50</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="SkySportsCricketHD.uk" site_id="1285/sky-sports-cricket-hd">UK: Sky Sport Cricket P50</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="SkySportsCricketHD.uk" site_id="1285/sky-sports-cricket-hd">UK: Sky Sport Cricket FHD</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="SkySportsCricketHD.uk" site_id="1285/sky-sports-cricket-hd">UK: Sky Sport Cricket HD</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="SkySportsF1HD.uk" site_id="1671/sky-sports-f1-hd">UK: Sky Sport F1 FHD P50</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="SkySportsF1HD.uk" site_id="1671/sky-sports-f1-hd">UK: Sky Sport F1 P50</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="SkySportsF1HD.uk" site_id="1671/sky-sports-f1-hd">UK: Sky Sport F1 FHD</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="SkySportsF1HD.uk" site_id="1671/sky-sports-f1-hd">UK: Sky Sport F1 HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#Sky.Sports.Football.HD.uk">UK: Sky Sport Football FHD P50</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#Sky.Sports.Football.HD.uk">UK: Sky Sport Football P50</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#Sky.Sports.Football.HD.uk">UK: Sky Sport Football FHD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#Sky.Sports.Football.HD.uk">UK: Sky Sport Football HD</channel>
+  <channel site="virgintvgo.virginmedia.com" lang="en" xmltv_id="SkySportsPremierLeagueHD.uk" site_id="1787">UK: Sky Sport Plus FHD</channel>
+  <channel site="virgintvgo.virginmedia.com" lang="en" xmltv_id="SkySportsPremierLeagueHD.uk" site_id="1787">UK: Sky Sport Plus HD</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="SkySportsGolfHD.uk" site_id="1567/sky-sports-golf-hd">UK: Sky Sport Golf FHD P50</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="SkySportsGolfHD.uk" site_id="1567/sky-sports-golf-hd">UK: Sky Sport Golf P50</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="SkySportsGolfHD.uk" site_id="1567/sky-sports-golf-hd">UK: Sky Sport Golf FHD</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="SkySportsGolfHD.uk" site_id="1567/sky-sports-golf-hd">UK: Sky Sport Golf HD</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="" site_id="2451/sky-sports-tennis-hd">UK: Sky Sport Tennis FHD P50</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="" site_id="2451/sky-sports-tennis-hd">UK: Sky Sport Tennis P50</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="" site_id="2451/sky-sports-tennis-hd">UK: Sky Sport Tennis FHD</channel>
+  <channel site="tv24.co.uk" lang="en" xmltv_id="" site_id="sky-sports-action-hd-1">UK: Sky Sport Action FHD P50</channel>
+  <channel site="tv24.co.uk" lang="en" xmltv_id="" site_id="sky-sports-action-hd-1">UK: Sky Sport Action P50</channel>
+  <channel site="tv24.co.uk" lang="en" xmltv_id="" site_id="sky-sports-action-hd-1">UK: Sky Sport Action FHD</channel>
+  <channel site="tv24.co.uk" lang="en" xmltv_id="" site_id="sky-sports-action-hd-1">UK: Sky Sport Action HD</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="SkySportsMixHD.uk" site_id="2034/sky-sports-mix-hd">UK: Sky Sport Mix FHD P50</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="SkySportsMixHD.uk" site_id="2034/sky-sports-mix-hd">UK: Sky Sport MIX P50</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="SkySportsMixHD.uk" site_id="2034/sky-sports-mix-hd">UK: Sky Sport Mix FHD</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="SkySportsMixHD.uk" site_id="2034/sky-sports-mix-hd">UK: Sky Sport Mix HD</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="SkySportsRacingHD.uk" site_id="2157/sky-sports-racing-hd">UK: Sky Sport Racing FHD P50</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="SkySportsRacingHD.uk" site_id="2157/sky-sports-racing-hd">UK: Sky Sport Racing P50</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="SkySportsRacingHD.uk" site_id="2157/sky-sports-racing-hd">UK: Sky Sport Racing FHD</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="SkySportsRacingHD.uk" site_id="2157/sky-sports-racing-hd">UK: Sky Sport Racing</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#SkySp.Racing.uk">UK: SIS Racing</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="SkySportsF1HD.uk" site_id="1671/sky-sports-f1-hd">UK: Sky Sport+ 1</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="" site_id="2089/sky-sports-hd">UK: Sky Sport+ 2</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="" site_id="2089/sky-sports-hd">UK: Sky Sport+ 3</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="" site_id="2089/sky-sports-hd">UK: Sky Sport+ 4</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="" site_id="2089/sky-sports-hd">UK: Sky Sport+ 5</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="" site_id="2089/sky-sports-hd">UK: Sky Sport+ 6</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="" site_id="2089/sky-sports-hd">UK: Sky Sport+ 7</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="" site_id="2089/sky-sports-hd">UK: Sky Sport+ 8</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="" site_id="2089/sky-sports-hd">UK: Sky Sport+ 9</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="SkySportsF1HD.uk" site_id="1671/sky-sports-f1-hd">UK: Sky Sport+ 10</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="SkySportsF1HD.uk" site_id="1671/sky-sports-f1-hd">UK: Sky Sport+ 11</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="SkySportsF1HD.uk" site_id="1671/sky-sports-f1-hd">UK: Sky Sport+ 12</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="SkySportsF1HD.uk" site_id="1671/sky-sports-f1-hd">UK: Sky Sport+ 13</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="SkySportsF1HD.uk" site_id="1671/sky-sports-f1-hd">UK: Sky Sport+ 14</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="SkySportsF1HD.uk" site_id="1671/sky-sports-f1-hd">UK: Sky Sport+ 15</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="SkySportsF1HD.uk" site_id="1671/sky-sports-f1-hd">UK: Sky Sport+ 16</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="SkySportsF1HD.uk" site_id="1671/sky-sports-f1-hd">UK: Sky Sport+ 17</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="SkySportsF1HD.uk" site_id="1671/sky-sports-f1-hd">UK: Sky Sport+ 18</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="SkySportsF1HD.uk" site_id="1671/sky-sports-f1-hd">UK: Sky Sport+ 19</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="" site_id="2089/sky-sports-hd">UK: Sky Sport+ 20</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="SkySportsF1HD.uk" site_id="1671/sky-sports-f1-hd">UK: Sky Sport+ 21</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="" site_id="2089/sky-sports-hd">UK: Sky Sport+ 22</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="" site_id="2089/sky-sports-hd">UK: Sky Sport+ 23</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="" site_id="2089/sky-sports-hd">UK: Sky Sport+ 24</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="" site_id="2089/sky-sports-hd">UK: Sky Sport+ 25</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="" site_id="2089/sky-sports-hd">UK: Sky Sport+ 26</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="" site_id="2089/sky-sports-hd">UK: Sky Sport+ 27</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="" site_id="2089/sky-sports-hd">UK: Sky Sport+ 28</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="" site_id="2089/sky-sports-hd">UK: Sky Sport+ 29</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="" site_id="2089/sky-sports-hd">UK: Sky Sport+ 30</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="SkySportsF1HD.uk" site_id="1671/sky-sports-f1-hd">UK: Sky Sport+ 31</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="" site_id="2089/sky-sports-hd">UK: Sky Sport+ 32</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="" site_id="2089/sky-sports-hd">UK: Sky Sport+ 33</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="" site_id="2089/sky-sports-hd">UK: Sky Sport+ 34</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="" site_id="2089/sky-sports-hd">UK: Sky Sport+ 35</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="" site_id="2089/sky-sports-hd">UK: Sky Sport+ 36</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="" site_id="2089/sky-sports-hd">UK: Sky Sport+ 37</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="" site_id="2089/sky-sports-hd">UK: Sky Sport+ 38</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="" site_id="2089/sky-sports-hd">UK: Sky Sport+ 39</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="" site_id="2089/sky-sports-hd">UK: Sky Sport+ 40</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="SkySportsF1HD.uk" site_id="1671/sky-sports-f1-hd">UK: Sky Sport+ 41</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="" site_id="2089/sky-sports-hd">UK: Sky Sport+ 42</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="" site_id="2089/sky-sports-hd">UK: Sky Sport+ 43</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="" site_id="2089/sky-sports-hd">UK: Sky Sport+ 44</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="" site_id="2089/sky-sports-hd">UK: Sky Sport+ 45</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="" site_id="2089/sky-sports-hd">UK: Sky Sport+ 46</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="" site_id="2089/sky-sports-hd">UK: Sky Sport+ 47</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="" site_id="2089/sky-sports-hd">UK: Sky Sport+ 48</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="" site_id="2089/sky-sports-hd">UK: Sky Sport+ 49</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="" site_id="2089/sky-sports-hd">UK: Sky Sport+ 50</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="SkySportsF1HD.uk" site_id="1671/sky-sports-f1-hd">UK: Sky Sport+ 51</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="" site_id="2089/sky-sports-hd">UK: Sky Sport+ 52</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="" site_id="2089/sky-sports-hd">UK: Sky Sport+ 53</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="" site_id="2089/sky-sports-hd">UK: Sky Sport+ 54</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="" site_id="2089/sky-sports-hd">UK: Sky Sport+ 55</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="" site_id="2089/sky-sports-hd">UK: Sky Sport+ 56</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="" site_id="2089/sky-sports-hd">UK: Sky Sport+ 57</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="" site_id="2089/sky-sports-hd">UK: Sky Sport+ 58</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="" site_id="2089/sky-sports-hd">UK: Sky Sport+ 59</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="" site_id="2089/sky-sports-hd">UK: Sky Sport+ 60</channel>
+  <channel site="entertainment.ie" lang="en" xmltv_id="TNTSports2.uk" site_id="bt-sport-2">UK: BFBS Sport 2 HD</channel>
+  <channel site="entertainment.ie" lang="en" xmltv_id="TNTSports3.uk" site_id="bt-sport-3">UK: BFBS Sport 3 HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#4Music.uk">UK: 4Music</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#4seven.uk">UK: 4seven</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#5SELECT.uk">UK: 5 Select</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#5STAR.uk">UK: 5 Star</channel>
+  <channel site="tv24.co.uk" lang="en" xmltv_id="" site_id="5-star-1-1">UK: 5 Star  1</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#5.USA.uk">UK: 5 Usa</channel>
+  <channel site="virgintvgo.virginmedia.com" lang="en" xmltv_id="5USAPlus1.uk" site_id="1475">UK: 5 Usa  1</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="AajTak.in" site_id="10000000000720000">UK: Aaj Tak</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="ABPNews.in" site_id="10000000000180000">UK: ABP News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#Al.Jazeera.HD.uk">UK: AL Jazeera HD</channel>
+  <channel site="entertainment.ie" lang="en" xmltv_id="" site_id="alibi">UK: Alibi</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#alibi+1.uk">UK: Alibi  1</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="AMCEast.us" site_id="9233011832">UK: AMC HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN4#and.TV.in">UK: And TV</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="AnimalPlanetPlus1.uk" site_id="700/animal-planet-1">UK: Animal Planet  1</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="" site_id="10000000000320000">UK: Animal Planet HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#Arirang.TV.HD.uk">UK: Arirang TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#Arise.News.uk">UK: Aris News</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="B4UKadak.in" site_id="10000000066390000">UK: B4U Kadak</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="B4UMoviesIndia.in" site_id="10000000000740000">UK: B4U Movies</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="B4UMusicIndia.in" site_id="10000000000730000">UK: B4U Music</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="BabyTV.uk" site_id="1761/baby-tv">UK: baby tv</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#TNT.Sports.1.HD.uk">UK: TNT Sport 1</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#TNT.Sports.2.HD.uk">UK: TNT Sport 2</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#TNT.Sports.3.HD.uk">UK: TNT Sport 3</channel>
+  <channel site="tv24.co.uk" lang="en" xmltv_id="" site_id="tnt-sports-uhd-4k">UK: TNT Sport ESPN HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#TNT.Sports.1.HD.uk">UK: TNT Sports 1 HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#TNT.Sports.2.HD.uk">UK: TNT Sports 2 HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#TNT.Sports.3.HD.uk">UK: TNT Sports 3 HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#BBC.R1.uk">UK: BBC 1</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#BBC.R2.uk">UK: BBC 2</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#BBC.R3.uk">UK: BBC 3</channel>
+  <channel site="sky.com" lang="en" xmltv_id="" site_id="2114">UK: BBC 4</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#BBC.ALBA.HD.uk">UK: BBC Alba</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="" site_id="158142">UK: BBC News HD</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCOneNorthernIrelandHD.uk" site_id="1770/bbc-one-northern-ireland-hd">UK: BBC One Northern Ireland</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCOneScotlandHD.uk" site_id="1776/bbc-one-scotland-hd">UK: BBC One Scotland</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCOneWalesHD.uk" site_id="1778/bbc-one-wales-hd">UK: BBC One Wales</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#BBC.Parliament.HD.uk">UK: BBC Parliament</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCScotlandHD.uk" site_id="2233/bbc-scotland-hd">UK: BBC Scotland</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCTwoNorthernIrelandHD.uk" site_id="2156/bbc-two-northern-ireland-hd">UK: BBC Two Northern Ireland</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCOneScotlandHD.uk" site_id="1776/bbc-one-scotland-hd">UK: BBC Two Scotland</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCTwoWalesHD.uk" site_id="2155/bbc-two-wales-hd">UK: BBC Two Wales</channel>
+  <channel site="starhubtvplus.com" lang="en" xmltv_id="BBCNewsAsiaPacific.uk" site_id="8a28afbc-74bb-4c02-9bba-eb623358a9b8">UK: BBC World News</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="BETEast.us" site_id="9233005931">UK: BET</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#BLAZE.uk">UK: Blaze</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#Bloomberg.HD.uk">UK: Bloomberg</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#Boomerang.HD.uk">UK: Boomerang</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#Box.Hits.uk">UK: BOX Hits</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#Brit.Asia.TV.uk">UK: Brit Asia</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#British.Muslim.uk">UK: British Muslim</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#CITV.uk">UK: C ITV</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="CartoonNetwork.in" site_id="10000000000760000">UK: Cartoon network</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#Cartoonito.uk">UK: Cartoonito</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#CBBC.HD.uk">UK: CBBC</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#CBeebies.HD.uk">UK: CBeebies HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#CBS.Justice.uk">UK: CBS Justice</channel>
+  <channel site="entertainment.ie" lang="en" xmltv_id="CBSReality.uk" site_id="cbs-reality">UK: CBS Reality</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#Challenge.uk">UK: Challenge</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#Channel.4.uk">UK: Channel 4 HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#Channel.5+1.uk">UK: Channel 5  1</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#Channel.5.uk">UK: Channel 5 HD</channel>
+  <channel site="tv.nu" lang="sv" xmltv_id="ClubMTVEurope.uk" site_id="club-mtv">UK: Club MTV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#Clubland.TV.uk">UK: Clubland TV</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="CBCNewsNetwork.ca" site_id="cbc-news-network/74">UK: CNBC News</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#CNN.uk">UK: CNN HD</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="Colors.in" site_id="10000000004170000">UK: Colors</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="ComedyCentralExtra.uk" site_id="974/comedy-central-extra">UK: Comedy Central Extra</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="ComedyCentralEast.us" site_id="9200000657">UK: Comedy Central HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#Court.TV.uk">UK: Court TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#Craft.Extra.uk">UK: Craft Extra</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="CreateandCraftHD.uk" site_id="2411/create-craft-hd">UK: Create &amp; Craft</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="CrimePlusInvestigation.us" site_id="9233003673">UK: Crime &amp; Investigation HD</channel>
+  <channel site="tv24.co.uk" lang="en" xmltv_id="" site_id="cruise1st-tv-1">UK: Cruise 1st TV</channel>
+  <channel site="entertainment.ie" lang="en" xmltv_id="" site_id="dave">UK: Dave HD</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="DiscoveryChannel.in" site_id="10000000000310000">UK: Discovery</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#Discovery+1.uk">UK: Discovery  1</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="DiscoveryHistory.uk" site_id="1606/discovery-history">UK: Discovery History</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="DiscoveryHistoryPlus1.uk" site_id="1617/discovery-history-1">UK: Discovery History  1</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="" site_id="159107">UK: Discovery Science</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="DiscoverySciencePlus1.uk" site_id="1543/discovery-science-1">UK: Discovery Science  1</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="" site_id="159108">UK: Discovery Turbo</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="DiscoveryTurboPlus1.uk" site_id="2113/discovery-turbo-1">UK: Discovery Turbo  1</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="DisneyChannel.in" site_id="10000000000340000">UK: DISNEY HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#DMAX+1.uk">UK: DMAX  1</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#DMAX.uk">UK: DMAX HD</channel>
+  <channel site="singtel.com" lang="en" xmltv_id="" site_id="5618">UK: Drama</channel>
+  <channel site="player.ee.co.uk" lang="en" xmltv_id="" site_id="dvb://233a..5740">UK: Drama  1</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="EEast.us" site_id="9200012343">UK: E!</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#E4.HD.uk">UK: E4</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#E4+1.uk">UK: E4  1</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#E4.HD.uk">UK: E4 HD</channel>
+  <channel site="entertainment.ie" lang="en" xmltv_id="" site_id="eden">UK: EDEN HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#Eurosport.1.HD.uk">UK: Eir Sport 1</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#Eurosport.2.HD.uk">UK: Eir Sport 2</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="EuronewsEnglish.fr" site_id="5e20b730f2f8d5003d739db7-60089d90f682a3002c348299">UK: EURONEWS</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#Eurosport.1.HD.uk">UK: EuroSport 1 HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#Eurosport.2.HD.uk">UK: EuroSport 2</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="faithtv/5329">UK: Faith</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#Film4+1.uk">UK: FILM 4  1</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#Film4.HD.uk">UK: Film 4 HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#Film4.HD.uk">UK: Film4 HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#Food.Network.uk">UK: Food Network</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#Foodxp.uk">UK: FOOD XP</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#Forces.TV.uk">UK: FORCES TV</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="FoxNewsChannel.us" site_id="9233000410">UK: Fox News HD</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="" site_id="10000000006560000">UK: France 24</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#GOD.Channel.uk">UK: GOD TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#U.and.Gold.uk">UK: Gold</channel>
+  <channel site="tv24.se" lang="sv" xmltv_id="History2Nordic.us" site_id="h2">UK: H2</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#HGTV.uk">UK: HGTV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#Hidayat.TV.uk">UK: HIDAYAT</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#High.Street.TV.1.uk">UK: High Street TV</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="HistoryEast.us" site_id="9233008002">UK: History HD</channel>
+  <channel site="tv24.se" lang="sv" xmltv_id="" site_id="horse-country-tv">UK: Horse and Country</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#ID+1.uk">UK: ID  1</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#Ideal.World.HD.uk">UK: Ideal World HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#Inspiration.TV.uk">UK: Inspiration TV</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="" site_id="157811">UK: Investigation Discovery</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#iON.TV.uk">UK: iON TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#ITV1+1.uk">UK: Itv 1</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#ITV1+1.uk">UK: ITV 1  1</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#ITV2.HD.uk">UK: Itv 2</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#ITV2+1.uk">UK: ITV 2  1</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#ITV3.HD.uk">UK: Itv 3</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#ITV3+1.uk">UK: ITV 3  1</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#ITV4.HD.uk">UK: Itv 4</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#ITV4+1.uk">UK: ITV 4  1</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="ITV1AngliaHD.uk" site_id="1998/itv1-anglia-hd">UK: ITV Anglia</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="ITVBePlus1.uk" site_id="1931/itvbe-1">UK: ITV BE  1</channel>
+  <channel site="tv24.co.uk" lang="en" xmltv_id="" site_id="itv-granada-hd">UK: ITV Granada</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="ITV1LondonHD.uk" site_id="1560/itv1-london-hd">UK: ITV London</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="ITV1YorkshireHD.uk" site_id="1997/itv1-yorkshire-hd">UK: ITV Yorkshire</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#ITVBe.uk">UK: ITVBE</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#Kanshi.TV.uk">UK: Kanshi TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#Kerrang!.uk">UK: Kerrang TV</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="LFCTVHD.uk" site_id="1928/lfc-tv-hd">UK: LFC TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#Lifetime.HD.uk">UK: Life Time HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#Live.360.uk">UK: Live 360</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#London.Live.uk">UK: London Live</channel>
+  <channel site="nowplayer.now.com" lang="en" xmltv_id="" site_id="218">UK: Love Nature</channel>
+  <channel site="nowplayer.now.com" lang="en" xmltv_id="" site_id="218">UK: Love Nature HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#LoveWorld.HD.uk">UK: Love World</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#LoveWorld.HD.uk">UK: Love World HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#Magic.uk">UK: Magic TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#MATV.National.uk">UK: MATV National</channel>
+  <channel site="freeview.co.uk" lang="en" xmltv_id="More4.uk" site_id="64257#8442">UK: More 4</channel>
+  <channel site="virgintvgo.virginmedia.com" lang="en" xmltv_id="More4Plus1.uk" site_id="1652">UK: More 4  1</channel>
+  <channel site="freeview.co.uk" lang="en" xmltv_id="More4.uk" site_id="64257#8442">UK: More 4 HD</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="" site_id="159093">UK: MTV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#MTV.BASE.uk">UK: MTV Base</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#MTV.Classic.uk">UK: MTV Classic</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="" site_id="159093">UK: MTV HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#MTV.HITS.uk">UK: MTV Hits</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#MTV.Live.HD.uk">UK: MTV Live FHD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#MTV.MUSIC.uk">UK: MTV Music</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#MUTV.HD.uk">UK: MUTV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#MUTV.HD.uk">UK: MUTV HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#Nat.Geo.HD.uk">UK: Nat Geo HD</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="NationalGeographicWild.in" site_id="10000000005680000">UK: Nat Geo Wild</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#New.Vision.TV.uk">UK: New Vision TV</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="NewsmaxTV.us" site_id="5e20b730f2f8d5003d739db7-5fb81660b7ad2d002dcb7335">UK: News Max</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#NHK.World.HD.uk">UK: NHK WORLD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#Nick.Jr..Too.uk">UK: Nick Jnr Too</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#Nick.Jr..HD.uk">UK: Nick Jr</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#Nicktoons.uk">UK: NICK TOONS</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="NickelodeonEast.us" site_id="9200006939">UK: Nickelodeon</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#NOW.80s.uk">UK: Now 80s</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#NOW.90s.uk">UK: Now 90s</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="ParamountNetworkEast.us" site_id="9233013810">UK: Paramount Network</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#PBS.America.uk">UK: PBS America</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#PCNE.Chinese.uk">UK: Pcne Chinese</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="peace-tv/11084">UK: Peace TV</channel>
+  <channel site="entertainment.ie" lang="en" xmltv_id="SkyMix.uk" site_id="pick">UK: PICK</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#POP.uk">UK: POP</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#POP.Max.uk">UK: Pop Max</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#QUEST.uk">UK: Quest</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#Quest.Red.uk">UK: Quest RED</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#Quest.Red+1.uk">UK: Quest Red +1</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#QVC.HD.uk">UK: QVC</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#QVC.Beauty.uk">UK: QVC Beauty</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#QVC.Extra.uk">UK: QVC Extra</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#QVC.Style.HD.uk">UK: QVC Style</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#Racing.TV.uk">UK: Racing HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#Really.uk">UK: Really</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="RTE2HD.ie" site_id="1648/rte2-hd">UK: RTE 2 HD</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="RTEOne.ie" site_id="81/rte-one">UK: Rte One</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="RTEjr.ie" site_id="1649/rte-jr">UK: RTEjr</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#S4C.uk">UK: S4C</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#Sky.Arts.HD.uk">UK: Sky Arts</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#Sky.Atlantic.HD.uk">UK: Sky Atlantic</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#Sky.Comedy.HD.uk">UK: Sky Comedy HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#Sky.Kids.HD.uk">UK: Sky Kids HD</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="" site_id="158863">UK: Sky Movies Select</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#Sky.News.HD.uk">UK: Sky News</channel>
+  <channel site="tv24.co.uk" lang="en" xmltv_id="" site_id="sky-sports-action-hd-1">UK: Sky Sport Action</channel>
+  <channel site="tv24.co.uk" lang="en" xmltv_id="" site_id="sky-sports-action-hd-1">UK: Sky Sport Action HD</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="SkySportsCricketHD.uk" site_id="1285/sky-sports-cricket-hd">UK: Sky Sport Cricket</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="SkySportsCricketHD.uk" site_id="1285/sky-sports-cricket-hd">UK: Sky Sport Cricket HD</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="SkySportsF1HD.uk" site_id="1671/sky-sports-f1-hd">UK: Sky Sport F1</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="SkySportsF1HD.uk" site_id="1671/sky-sports-f1-hd">UK: Sky Sport F1 HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#Sky.Sports.Football.HD.uk">UK: Sky Sport Football HD</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="SkySportsGolfHD.uk" site_id="1567/sky-sports-golf-hd">UK: Sky Sport Golf</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="SkySportsGolfHD.uk" site_id="1567/sky-sports-golf-hd">UK: Sky Sport Golf HD</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="SkySportsMainEventHD.uk" site_id="1229/sky-sports-main-event-hd">UK: Sky Sport Main Events</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="SkySportsMainEventHD.uk" site_id="1229/sky-sports-main-event-hd">UK: Sky Sport Main Events HD</channel>
+  <channel site="tv24.co.uk" lang="en" xmltv_id="" site_id="sky-sports-news-hd-1">UK: Sky Sport News</channel>
+  <channel site="virgintvgo.virginmedia.com" lang="en" xmltv_id="SkySportsPremierLeagueHD.uk" site_id="1787">UK: Sky Sport PL</channel>
+  <channel site="virgintvgo.virginmedia.com" lang="en" xmltv_id="SkySportsPremierLeagueHD.uk" site_id="1787">UK: Sky Sport Plus HD</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="SkySportsPremierLeagueHD.uk" site_id="1890/sky-sports-premier-league-hd">UK: Sky Sport Premier League HD</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="SkySportsMixHD.uk" site_id="2034/sky-sports-mix-hd">UK: Sky Sports MIX</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="SkySportsNewsHD.uk" site_id="1584/sky-sports-news-hd">UK: Sky Sports News HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#Sky.Witness.HD.uk">UK: Sky Witness</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#Sky.History+1.uk">UK: Sky Store 1 FHD</channel>
+  <channel site="tv24.se" lang="en" xmltv_id="SkyHistory2.uk" site_id="sky-history-2-hd">UK: Sky Store 2 FHD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#SONY.TV.HD.uk">UK: Sony Channel</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="SonyEntertainmentTelevisionAsiaHD.in" site_id="2095/sony-entertainment-tv-asia-hd">UK: Sony Entertainment (SET)</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#SportyStuff.HD.uk">UK: Sportystaff TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#Spotlight.TV.uk">UK: Spotlight TV</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="StarBharat.in" site_id="10000000053350000">UK: Star Bharat</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="StarGold.in" site_id="10000000000110000">UK: Star Gold</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="StarJalsha.in" site_id="10000000004370000">UK: Star Jalsha</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="StarPlus.in" site_id="10000000000080000">UK: Star Plus</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="StarzEast.us" site_id="9233013809">UK: Starz TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#STV.HD.uk">UK: STV HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#SYFY.HD.uk">UK: Syfy</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="TalkingPicturesTV.uk" site_id="1946/talking-pictures-tv">UK: Talking Pictures HD</channel>
+  <channel site="tv24.co.uk" lang="en" xmltv_id="" site_id="turner-classic-movies">UK: TCM HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#TCM.Movies+1.uk">UK: Tcm Movies  1</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#TG4.HD.uk">UK: TG4</channel>
+  <channel site="tv24.co.uk" lang="en" xmltv_id="" site_id="the-vault">UK: The Vault</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#Tiny.Pop.uk">UK: Tiny Pop</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="" site_id="158023">UK: TLC</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#TLC+1.uk">UK: TLC  1</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#Islam.TV.uk">UK: Islam Channel</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="TravelChannelEast.us" site_id="9233000035">UK: Travel Channel</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="" site_id="10000000007410000">UK: Travel XP</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#True.Crime.uk">UK: True Crime</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#TV.One.uk">UK: TV ONE</channel>
+  <channel site="tv.nu" lang="fi" xmltv_id="" site_id="tv5-hd">UK: TV5</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#Venus.TV.uk">UK: Venus</channel>
+  <channel site="entertainment.ie" lang="en" xmltv_id="" site_id="w">UK: W HD</channel>
+  <channel site="entertainment.ie" lang="en" xmltv_id="" site_id="yesterday">UK: Yesterday HD</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="ZeeCinemaAsia.in" site_id="10000000007790000">UK: Zee Cinema</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="" site_id="144464">UK: Zee Punjabi</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="ZeeTV.in" site_id="10000000000200000">UK: Zee TV</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="Zing.in" site_id="10000000000970000">UK: Zing</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#Absolute.80s.uk">UK: Absolute 80&apos;s FM</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#Absolute.90s.uk">UK: Absolute 90&apos;s FM</channel>
+  <channel site="freeview.co.uk" lang="en" xmltv_id="" site_id="64257#6720">UK: BBC Radio 1</channel>
+  <channel site="freeview.co.uk" lang="en" xmltv_id="" site_id="64257#6784">UK: BBC Radio 2</channel>
+  <channel site="freeview.co.uk" lang="en" xmltv_id="" site_id="64257#6720">UK: BBC Radio 5</channel>
+  <channel site="freeview.co.uk" lang="en" xmltv_id="" site_id="64257#26368">UK: Smooth radio FM</channel>
+</channels>

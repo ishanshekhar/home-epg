@@ -49,8 +49,22 @@ env/
 
 # OS related
 .DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
 Thumbs.db
 
 # Docker related
 docker/data/
-docker/.env 
+docker/.env
+*.env
+.credentials
+
+# Temporary and log files
+*.log
+*.tmp
+*.temp
+*.bak
+*.backup 

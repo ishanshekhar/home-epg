@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
-  <channel site="dishtv.in" lang="en" xmltv_id="StarSports1.in" site_id="10000000000190000">IN: Star Sports 1 HD</channel>
+  <channel id="StarSports1.in" site_id="STAR_SPORTS_1" xmltv_id="StarSports1.in">Star Sports 1</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="SkySportsMainEventHD.uk" site_id="1229/sky-sports-main-event-hd">UK: Sky Sport Main Event UHD 4K</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="SkySportsMainEventHD.uk" site_id="1229/sky-sports-main-event-hd">UK: Sky Sport Main Event UHD 4K B</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="SkySportsF1HD.uk" site_id="1671/sky-sports-f1-hd">UK: Sky Sport F1 UHD 4K</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="SkySportsF1HD.uk" site_id="1671/sky-sports-f1-hd">UK: Sky Sport F1 UHD 4K B</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="HDNetMovies.us" site_id="hdnet-movies/4267">US: HDNET Movies HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="msg-2/31490">US: MSG 2 HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="MSGPlus.us" site_id="msg-plus/1088">US: MSG Plus</channel>
 </channels>
