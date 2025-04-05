@@ -23,12 +23,19 @@ git pull origin $DEFAULT_BRANCH
 # Create export_epg directory if it doesn't exist
 mkdir -p /app/home-epg/export_epg
 
-# Run EPG grabber
+# Run EPG grabber with optimized settings
+echo "Memory settings: $NODE_OPTIONS"
 cd /app/epg
-npm run grab --- --channels=/app/home-epg/my_channels/channels_IN.xml --output=/app/home-epg/export_epg/epg_IN.xml
-#npm run grab --- --channels=/app/home-epg/my_channels/test_channels.xml --output=/app/home-epg/export_epg/test_guide.xml --maxConnections 10
-npm run grab --- --channels=/app/home-epg/my_channels/channels_US.xml --output=/app/home-epg/export_epg/epg_US.xml
-npm run grab --- --channels=/app/home-epg/my_channels/channels_UK.xml --output=/app/home-epg/export_epg/epg_UK.xml
+
+# Run each country one at a time with conservative connection settings
+echo "Processing India channels..."
+npm run grab --- --channels=/app/home-epg/my_channels/channels_IN.xml --output=/app/home-epg/export_epg/epg_IN.xml --maxConnections 6 --timeout 60000
+
+echo "Processing US channels..."
+npm run grab --- --channels=/app/home-epg/my_channels/channels_US.xml --output=/app/home-epg/export_epg/epg_US.xml --maxConnections 6 --timeout 60000
+
+echo "Processing UK channels..."
+npm run grab --- --channels=/app/home-epg/my_channels/channels_UK.xml --output=/app/home-epg/export_epg/epg_UK.xml --maxConnections 6 --timeout 60000
 
 # Commit and push changes
 cd /app/home-epg

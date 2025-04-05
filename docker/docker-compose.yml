@@ -8,6 +8,12 @@ services:
       - GIT_PASSWORD=${GIT_PASSWORD}
     volumes:
       - ../my_channels:/app/home-epg/my_channels
+    deploy:
+      resources:
+        limits:
+          memory: 12G
+        reservations:
+          memory: 8G
 
 volumes:
   epg-repo:
