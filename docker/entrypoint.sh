@@ -25,8 +25,10 @@ mkdir -p /app/home-epg/export_epg
 
 # Run EPG grabber
 cd /app/epg
-npm run grab --- --channels=/app/home-epg/my_channels/channels_IN.xml --output=/app/home-epg/export_epg/IN_guide.xml
-npm run grab --- --channels=/app/home-epg/my_channels/test_channels.xml --output=/app/home-epg/export_epg/test_guide.xml
+npm run grab --- --channels=/app/home-epg/my_channels/channels_IN.xml --output=/app/home-epg/export_epg/epg_IN.xml
+#npm run grab --- --channels=/app/home-epg/my_channels/test_channels.xml --output=/app/home-epg/export_epg/test_guide.xml --maxConnections 10
+npm run grab --- --channels=/app/home-epg/my_channels/channels_US.xml --output=/app/home-epg/export_epg/epg_US.xml
+npm run grab --- --channels=/app/home-epg/my_channels/channels_UK.xml --output=/app/home-epg/export_epg/epg_UK.xml
 
 # Commit and push changes
 cd /app/home-epg
