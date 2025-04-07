@@ -350,31 +350,36 @@ def generate_filtered_epg_xml(matches, input_epg_file, output_file, only_perfect
         for attr_name, attr_value in root.attrib.items():
             new_root.set(attr_name, attr_value)
         
-        # Track channel IDs to include
+        # Track channel IDs to include (for programs), but still allow duplicate channels
         channel_ids_to_include = set()
+        channel_count = 0
         
         # Add matched channels to the new XML
         for match in matches_to_include:
             epg_channel_id = match['epg_match']['epg_channel']['id']
             channel_ids_to_include.add(epg_channel_id)
             
-            # Find the original channel element
-            for channel_elem in root.findall(".//channel[@id='{}']".format(epg_channel_id)):
-                # Create a new channel element
-                new_channel = ET.SubElement(new_root, 'channel', id=epg_channel_id)
-                
-                # Use the playlist channel name as the display name
-                display_name = ET.SubElement(new_channel, 'display-name')
-                display_name.text = match['playlist_channel']['name']
-                
-                # Copy icons if they exist
-                for icon in channel_elem.findall('.//icon'):
-                    new_icon = ET.SubElement(new_channel, 'icon', src=icon.get('src', ''))
-                
-                # Copy any other elements
-                for child in channel_elem:
-                    if child.tag != 'display-name' and child.tag != 'icon':
-                        new_channel.append(child)
+            # Find the original channel template (we'll use just the first one as template)
+            channel_template = root.find(".//channel[@id='{}']".format(epg_channel_id))
+            if not channel_template:
+                continue
+            
+            # Create a new channel element
+            new_channel = ET.SubElement(new_root, 'channel', id=epg_channel_id)
+            channel_count += 1
+            
+            # Use the playlist channel name as the display name
+            display_name = ET.SubElement(new_channel, 'display-name')
+            display_name.text = match['playlist_channel']['name']
+            
+            # Copy icons if they exist
+            for icon in channel_template.findall('.//icon'):
+                new_icon = ET.SubElement(new_channel, 'icon', src=icon.get('src', ''))
+            
+            # Copy any other elements
+            for child in channel_template:
+                if child.tag != 'display-name' and child.tag != 'icon':
+                    new_channel.append(child)
         
         # Add program entries for the included channels
         for program in root.findall(".//programme"):
@@ -395,7 +400,6 @@ def generate_filtered_epg_xml(matches, input_epg_file, output_file, only_perfect
         
         # Count the number of programs included
         program_count = len(new_root.findall(".//programme"))
-        channel_count = len(new_root.findall(".//channel"))
         
         # Write the new XML file with proper formatting
         with open(output_file, 'wb') as f:
@@ -425,8 +429,8 @@ def consolidate_epg_files(epg_files, output_file):
         new_root = ET.Element('tv')
         new_root.set('generator-info-name', 'Consolidated EPG Generator')
         
-        # Track channel IDs to avoid duplicates
-        channel_ids = set()
+        # Modified: Track channel IDs for reference, but don't use for exclusion
+        channel_ids_count = {}
         program_count = 0
         
         print(f"Consolidating {len(epg_files)} EPG files...")
@@ -444,12 +448,17 @@ def consolidate_epg_files(epg_files, output_file):
                     if attr != 'generator-info-name':
                         new_root.set(attr, value)
             
-            # Add channels that aren't already included
+            # Modified: Add all channels, even with duplicate IDs
             for channel in root.findall(".//channel"):
                 channel_id = channel.get('id')
-                if channel_id not in channel_ids:
-                    channel_ids.add(channel_id)
-                    new_root.append(channel)
+                # Instead of skipping, we keep a count for reporting
+                if channel_id in channel_ids_count:
+                    channel_ids_count[channel_id] += 1
+                else:
+                    channel_ids_count[channel_id] = 1
+                
+                # Always add the channel
+                new_root.append(channel)
             
             # Add all programs
             for program in root.findall(".//programme"):
@@ -467,8 +476,12 @@ def consolidate_epg_files(epg_files, output_file):
             f.write(b'<?xml version="1.0" encoding="UTF-8"?>\n')
             new_tree.write(f, encoding='utf-8')
         
+        unique_ids = len(channel_ids_count)
+        total_channels = sum(channel_ids_count.values())
+        duplicate_count = total_channels - unique_ids
+        
         print(f"Consolidated EPG file created: {output_file}")
-        print(f"Included {len(channel_ids)} channels and {program_count} program entries")
+        print(f"Included {total_channels} total channels ({unique_ids} unique IDs, {duplicate_count} duplicates) and {program_count} program entries")
         
         return output_file
     except Exception as e:

@@ -834,8 +834,8 @@ def consolidate_epg_files(epg_files, output_file):
         new_root = ET.Element('tv')
         new_root.set('generator-info-name', 'Consolidated EPG Generator')
         
-        # Track channel IDs to avoid duplicates
-        channel_ids = set()
+        # Modified: Track channel IDs for reference, but don't use for exclusion
+        channel_ids_count = {}
         program_count = 0
         
         print(f"Consolidating {len(epg_files)} EPG files...")
@@ -853,12 +853,17 @@ def consolidate_epg_files(epg_files, output_file):
                     if attr != 'generator-info-name':
                         new_root.set(attr, value)
             
-            # Add channels that aren't already included
+            # Modified: Add all channels, even with duplicate IDs
             for channel in root.findall(".//channel"):
                 channel_id = channel.get('id')
-                if channel_id not in channel_ids:
-                    channel_ids.add(channel_id)
-                    new_root.append(channel)
+                # Instead of skipping, we keep a count for reporting
+                if channel_id in channel_ids_count:
+                    channel_ids_count[channel_id] += 1
+                else:
+                    channel_ids_count[channel_id] = 1
+                
+                # Always add the channel
+                new_root.append(channel)
             
             # Add all programs
             for program in root.findall(".//programme"):
@@ -876,8 +881,12 @@ def consolidate_epg_files(epg_files, output_file):
             f.write(b'<?xml version="1.0" encoding="UTF-8"?>\n')
             new_tree.write(f, encoding='utf-8')
         
+        unique_ids = len(channel_ids_count)
+        total_channels = sum(channel_ids_count.values())
+        duplicate_count = total_channels - unique_ids
+        
         print(f"Consolidated EPG file created: {output_file}")
-        print(f"Included {len(channel_ids)} channels and {program_count} program entries")
+        print(f"Included {total_channels} total channels ({unique_ids} unique IDs, {duplicate_count} duplicates) and {program_count} program entries")
         
         return output_file
     except Exception as e:

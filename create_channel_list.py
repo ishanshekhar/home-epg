@@ -335,13 +335,17 @@ def generate_channel_list_xml(matches, output_file, country_prefix=None):
     # Create the XML content directly as a string for better performance
     lines = ['<?xml version="1.0" encoding="UTF-8"?>', '<channels>']
     
-    # Count matched channels
+    # Count matched channels and handle duplicate IDs
     matched_count = 0
+    duplicate_count = 0
+    
+    # Track IDs to create unique ones for duplicates
+    id_count = {}  # Keep track of how many times we've seen each ID
+    processed_channels = set()  # Track unique combinations of id+name to avoid exact duplicates
     
     # Add channel elements for each match
     for match in matches:
         if match['mapping']:
-            matched_count += 1
             channel = match['playlist_channel']
             mapping = match['mapping']
             
@@ -356,6 +360,30 @@ def generate_channel_list_xml(matches, output_file, country_prefix=None):
                 channel_text = f"{country_prefix} {channel['name']}"
             else:
                 channel_text = channel['name']
+            
+            # Create a unique identifier for this channel entry (ID + name)
+            channel_unique_key = f"{xmltv_id}::{channel_text}"
+            
+            # Skip if we've already added this exact ID + name combination
+            if channel_unique_key in processed_channels:
+                continue
+                
+            processed_channels.add(channel_unique_key)
+            
+            # Handle duplicate IDs by making them unique with a suffix
+            if xmltv_id in id_count:
+                # This is a duplicate ID
+                id_count[xmltv_id] += 1
+                duplicate_count += 1
+                # Add a suffix to create a unique ID
+                # But only if the names are different - we still want to deduplicate exact matches
+                xmltv_id_original = xmltv_id
+                xmltv_id = f"{xmltv_id}_{id_count[xmltv_id]}"
+                logger.debug(f"Created unique ID {xmltv_id} for duplicate channel (original ID: {xmltv_id_original}, name: {channel_text})")
+            else:
+                id_count[xmltv_id] = 0
+            
+            matched_count += 1
             
             # Escape special characters in attributes and text
             site = escape_xml(site)
@@ -378,6 +406,8 @@ def generate_channel_list_xml(matches, output_file, country_prefix=None):
         
         elapsed_time = time.time() - start_time
         logger.info(f"Generated channel list XML with {matched_count} channels in {elapsed_time:.2f} seconds")
+        if duplicate_count > 0:
+            logger.info(f"Created unique IDs for {duplicate_count} channels with duplicate original IDs")
         
         # Validate the XML file
         validate_xml(output_file)

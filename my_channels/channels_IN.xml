@@ -1,29 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="star-tv/19868">IN: Star 4K UHD</channel>
-  <channel site="tv24.co.uk" lang="en" xmltv_id="" site_id="sport1">IN: Sport 18 HD</channel>
-  <channel site="dishtv.in" lang="en" xmltv_id="" site_id="10000000017540000">IN: &amp; PICTURE HD</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="tv-hindi/16040">IN: &amp;tv HD india</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="US_LOCALS2#Start.TV.us">IN: Star 4K UHD</channel>
+  <channel site="tv24.co.uk" lang="en" xmltv_id="_1" site_id="sport1">IN: Sport 18 HD</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="_2" site_id="10000000017540000">IN: &amp; PICTURE HD</channel>
   <channel site="dishtv.in" lang="en" xmltv_id="9XM.in" site_id="10000000003060000">IN: 9XM</channel>
   <channel site="dishtv.in" lang="en" xmltv_id="AajTak.in" site_id="10000000000720000">IN: AAJ TAK HD</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="aapka-colors/32594">IN: AAP KA COLORS HD</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="aapka-colors/32594">IN: AAPKA COLORS HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="_3" site_id="US1#Aapka.Colors.us">IN: AAP KA COLORS HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="_4" site_id="US1#Aapka.Colors.us">IN: AAPKA COLORS HD</channel>
   <channel site="dishtv.in" lang="en" xmltv_id="Aastha.in" site_id="10000000001390000">IN: AASTHA TV</channel>
-  <channel site="dishtv.in" lang="en" xmltv_id="ABPNews.in" site_id="10000000000180000">IN: ABP NEWS</channel>
-  <channel site="player.ee.co.uk" lang="en" xmltv_id="AlJazeeraEnglish.qa" site_id="dvb://233a..6c40">IN: AL JAZEERA NEWS</channel>
-  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN4#and.flix.in">IN: AND FLIX</channel>
-  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN4#and.flix.in">IN: AND FLIX HD</channel>
-  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN4#and.PICTURES.in">IN: AND PICTURES</channel>
-  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN4#and.PICTURES.in">IN: AND PICTURES HD</channel>
-  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN4#and.PRIVE.HD.in">IN: AND PRIVE HD</channel>
-  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN4#and.TV.in">IN: AND TV</channel>
-  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN4#and.TV.in">IN: AND TV HD</channel>
-  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="US1#and.TV.HD.USA.us">IN: AND TV UK</channel>
-  <channel site="dishtv.in" lang="en" xmltv_id="" site_id="10000000000320000">IN: Animal Planet HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="_5" site_id="ASIANTELEVISION1#ABP.News.dk">IN: ABP NEWS</channel>
+  <channel site="epgshare01.online" lang="sv" xmltv_id="_6" site_id="SE1#Al.Jazeera.eng.se">IN: AL JAZEERA NEWS</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="_7" site_id="IN4#and.flix.in">IN: AND FLIX</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="_8" site_id="IN4#and.flix.in">IN: AND FLIX HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="_9" site_id="IN4#and.PICTURES.in">IN: AND PICTURES</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="_10" site_id="IN4#and.PICTURES.in">IN: AND PICTURES HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="_11" site_id="IN4#and.PRIVE.HD.in">IN: AND PRIVE HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="_12" site_id="IN4#and.TV.in">IN: AND TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="_13" site_id="IN4#and.TV.in">IN: AND TV HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="_14" site_id="US1#and.TV.HD.USA.us">IN: AND TV UK</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="_15" site_id="10000000000320000">IN: Animal Planet HD</channel>
   <channel site="singtel.com" lang="en" xmltv_id="AnimalPlanetSoutheastAsia.sg" site_id="5208">IN: ANIMAL PLANET HINDI-1</channel>
-  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN4#ANIMAL.PLANET.HD.WORLD.in">IN: ANIMAL PLANET WORLD HD ENG-1</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="_16" site_id="IN4#ANIMAL.PLANET.HD.WORLD.in">IN: ANIMAL PLANET WORLD HD ENG-1</channel>
   <channel site="nowplayer.now.com" lang="en" xmltv_id="AXN.hk" site_id="512">IN: AXN</channel>
-  <channel site="nowplayer.now.com" lang="en" xmltv_id="AXN.hk" site_id="512">IN: AXN HD</channel>
+  <channel site="nowplayer.now.com" lang="en" xmltv_id="AXN.hk_1" site_id="512">IN: AXN HD</channel>
   <channel site="dishtv.in" lang="en" xmltv_id="B4UMoviesIndia.in" site_id="10000000000740000">IN: B4U MOVIES</channel>
   <channel site="dishtv.in" lang="en" xmltv_id="B4UMusicIndia.in" site_id="10000000000730000">IN: B4U MUSIC</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="BabyTV.uk" site_id="1761/baby-tv">IN: BABY TV</channel>
@@ -31,168 +30,168 @@
   <channel site="dishtv.in" lang="en" xmltv_id="BigMagic.in" site_id="10000000007350000">IN: BIG MAGIC</channel>
   <channel site="allente.se" lang="en" xmltv_id="BloombergTVEurope.uk" site_id="1008">IN: BLOOMBERG QUINT</channel>
   <channel site="dishtv.in" lang="en" xmltv_id="CartoonNetwork.in" site_id="10000000000760000">IN: CARTOON NETWORK</channel>
-  <channel site="dishtv.in" lang="en" xmltv_id="CartoonNetwork.in" site_id="10000000000760000">IN: Cartoon network HD</channel>
-  <channel site="tvguide.com" lang="en" xmltv_id="CinemaxEast.us" site_id="9233009829">IN: CINEMA TV</channel>
-  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN4#CNN.NEWS.18.in">IN: CNN IBN NEWS 18</channel>
-  <channel site="dishtv.in" lang="en" xmltv_id="" site_id="158147">IN: Colors Cineplex HD</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="CartoonNetwork.in_1" site_id="10000000000760000">IN: Cartoon network HD</channel>
+  <channel site="nowplayer.now.com" lang="en" xmltv_id="CinemaxAsia.sg" site_id="113">IN: CINEMA TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="_17" site_id="IN4#CNN.NEWS.18.in">IN: CNN IBN NEWS 18</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="_18" site_id="158147">IN: Colors Cineplex HD</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="ColorsGujrati.in" site_id="2342/colors-gujrati">IN: Colors GUJRATI HD</channel>
   <channel site="dishtv.in" lang="en" xmltv_id="Colors.in" site_id="10000000004170000">IN: COLORS HD</channel>
-  <channel site="dishtv.in" lang="en" xmltv_id="" site_id="10000000035230000">IN: Colors Infinity HD</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="_19" site_id="10000000035230000">IN: Colors Infinity HD</channel>
   <channel site="dishtv.in" lang="en" xmltv_id="ColorsMarathi.in" site_id="10000000000460000">IN: Colors Marathi HD</channel>
-  <channel site="dishtv.in" lang="en" xmltv_id="Colors.in" site_id="10000000004170000">IN: COLORS TV</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="Colors.in_1" site_id="10000000004170000">IN: COLORS TV</channel>
   <channel site="singtel.com" lang="en" xmltv_id="ColorsTamil.in" site_id="5623">IN: COLORS Tamil</channel>
-  <channel site="dishtv.in" lang="en" xmltv_id="" site_id="10000000007680000">IN: DANGAAL TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="_20" site_id="DISTROTV1#Dabangg.distro">IN: DABANG TV</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="_21" site_id="10000000007680000">IN: DANGAAL TV</channel>
   <channel site="dishtv.in" lang="en" xmltv_id="DDBharati.in" site_id="10000000001780000">IN: DD BHARATI</channel>
   <channel site="dishtv.in" lang="en" xmltv_id="DDIndia.in" site_id="10000000001800000">IN: DD INDIA</channel>
-  <channel site="dishtv.in" lang="en" xmltv_id="" site_id="142788">IN: DD KASHIR</channel>
-  <channel site="dishtv.in" lang="en" xmltv_id="" site_id="142789">IN: DD KISAN</channel>
-  <channel site="dishtv.in" lang="en" xmltv_id="" site_id="158253">IN: DD NATIONAL</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="_22" site_id="142788">IN: DD KASHIR</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="_23" site_id="142789">IN: DD KISAN</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="_24" site_id="158253">IN: DD NATIONAL</channel>
   <channel site="dishtv.in" lang="en" xmltv_id="DDNews.in" site_id="10000000001820000">IN: DD NEWS</channel>
-  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN4#DD.North.east.in">IN: DD NORTH EAST</channel>
-  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN4#DD.Sports.in">IN: DD SPORTS</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="_25" site_id="IN4#DD.North.east.in">IN: DD NORTH EAST</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="_26" site_id="IN4#DD.Sports.in">IN: DD SPORTS</channel>
   <channel site="dishtv.in" lang="en" xmltv_id="DDUrdu.in" site_id="10000000002910000">IN: DD URDU</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="DiscoveryChannelPlus1.uk" site_id="706/discovery-channel-1">IN: DISCOVERY CHANNEL ENG</channel>
   <channel site="dishtv.in" lang="en" xmltv_id="DiscoveryChannel.in" site_id="10000000000310000">IN: Discovery HD</channel>
-  <channel site="tv24.se" lang="sv" xmltv_id="" site_id="discovery-hd-text">IN: DISCOVERY JEET</channel>
-  <channel site="tv24.se" lang="sv" xmltv_id="" site_id="discovery-hd-text">IN: DISCOVERY JEET HD</channel>
-  <channel site="dishtv.in" lang="en" xmltv_id="" site_id="159011">IN: DISCOVERY KIDS HINDI</channel>
-  <channel site="dishtv.in" lang="en" xmltv_id="" site_id="159107">IN: DISCOVERY SCIENCE</channel>
-  <channel site="dishtv.in" lang="en" xmltv_id="" site_id="10000000005920000">IN: DISCOVERY WORLD IN HD</channel>
-  <channel site="dishtv.in" lang="en" xmltv_id="" site_id="159108">IN: DISCOVERY TURBO</channel>
+  <channel site="tv24.se" lang="sv" xmltv_id="_27" site_id="discovery-hd-text">IN: DISCOVERY JEET</channel>
+  <channel site="tv24.se" lang="sv" xmltv_id="_28" site_id="discovery-hd-text">IN: DISCOVERY JEET HD</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="_29" site_id="159011">IN: DISCOVERY KIDS HINDI</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="_30" site_id="159107">IN: DISCOVERY SCIENCE</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="_31" site_id="10000000005920000">IN: DISCOVERY WORLD IN HD</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="_32" site_id="159108">IN: DISCOVERY TURBO</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="DiscoveryTurboPlus1.uk" site_id="2113/discovery-turbo-1">IN: DISCOVERY TURBO ENG</channel>
-  <channel site="dishtv.in" lang="en" xmltv_id="" site_id="10000000005920000">IN: DISCOVERY WORLD</channel>
-  <channel site="dishtv.in" lang="en" xmltv_id="" site_id="10000000005920000">IN: DISCOVERY WORLD HD</channel>
-  <channel site="dishtv.in" lang="en" xmltv_id="" site_id="143010">IN: DIVYA TV</channel>
-  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN4#DD.Sports.in">IN: DSPORTS</channel>
-  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN4#DD.Sports.in">IN: DSPORTS HD</channel>
-  <channel site="dishtv.in" lang="en" xmltv_id="" site_id="159013">IN: EPIC HD</channel>
-  <channel site="dishtv.in" lang="en" xmltv_id="" site_id="143037">IN: EZ MALL</channel>
-  <channel site="tv24.co.uk" lang="en" xmltv_id="" site_id="fashion-4k-uhd">IN: FASHION TV</channel>
-  <channel site="tvguide.com" lang="en" xmltv_id="HBOEast.us" site_id="9200004886">IN: HBO HD</channel>
-  <channel site="tvguide.com" lang="en" xmltv_id="HistoryEast.us" site_id="9233008002">IN: HISTORY HD</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="_33" site_id="10000000005920000">IN: DISCOVERY WORLD</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="_34" site_id="10000000005920000">IN: DISCOVERY WORLD HD</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="_35" site_id="143010">IN: DIVYA TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="_36" site_id="DIRECTVSPORTS1#DSPORTS.+.HD.dtvsp">IN: DSPORTS</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="_37" site_id="DIRECTVSPORTS1#DSPORTS.+.HD.dtvsp">IN: DSPORTS HD</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="_38" site_id="159013">IN: EPIC HD</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="_39" site_id="143037">IN: EZ MALL</channel>
+  <channel site="epgshare01.online" lang="sv" xmltv_id="_40" site_id="SE1#Fashion.TV.se">IN: FASHION TV</channel>
+  <channel site="nowplayer.now.com" lang="en" xmltv_id="HBOAsia.sg" site_id="115">IN: HBO HD</channel>
+  <channel site="tv24.se" lang="sv" xmltv_id="History.se" site_id="history">IN: HISTORY HD</channel>
   <channel site="dishtv.in" lang="en" xmltv_id="IndiaToday.in" site_id="10000000000810000">IN: INDIA TODAY NEWS</channel>
-  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN4#India.News.in">IN: INDIA TV NEWS</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="jaya-movie/31953">IN: JAYA Movies HD</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="jaya-tv/4005">IN: JAYA TV HD</channel>
-  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#KTV.uk">IN: Ktv HD</channel>
-  <channel site="singtel.com" lang="en" xmltv_id="" site_id="5670">IN: MAHA MOVIES</channel>
-  <channel site="dishtv.in" lang="en" xmltv_id="" site_id="143303">IN: MANORANGAN MOVIES</channel>
-  <channel site="dishtv.in" lang="en" xmltv_id="" site_id="143304">IN: MANORANGAN TV</channel>
-  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN4#MASTII.in">IN: MASTI TV</channel>
-  <channel site="dishtv.in" lang="en" xmltv_id="" site_id="143543">IN: MIRROR NOW</channel>
-  <channel site="dishtv.in" lang="en" xmltv_id="" site_id="143548">IN: MN+ HD</channel>
-  <channel site="dishtv.in" lang="en" xmltv_id="" site_id="158863">IN: Star Movies Select HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="_41" site_id="IN4#India.News.in">IN: INDIA TV NEWS</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="_42" site_id="143219">IN: JAYA Movies HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="_43" site_id="IN4#JAYA.TV.in">IN: JAYA TV HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="_44" site_id="UK1#KTV.uk">IN: Ktv HD</channel>
+  <channel site="singtel.com" lang="en" xmltv_id="_45" site_id="5670">IN: MAHA MOVIES</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="_46" site_id="143303">IN: MANORANGAN MOVIES</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="_47" site_id="143304">IN: MANORANGAN TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="_48" site_id="IN4#MASTII.in">IN: MASTI TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="_49" site_id="US_LOCALS2#Me.TV.us">IN: ME TV</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="_50" site_id="143543">IN: MIRROR NOW</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="_51" site_id="143548">IN: MN+ HD</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="_52" site_id="158863">IN: Star Movies Select HD</channel>
   <channel site="dishtv.in" lang="en" xmltv_id="MoviesNow.in" site_id="10000000006570000">IN: MOVIES OK</channel>
-  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN4#MTV.BEATS.in">IN: MTV BEATS HD</channel>
-  <channel site="nowplayer.now.com" lang="en" xmltv_id="MTV.in" site_id="779">IN: MTV INDIA</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="metv-plus/36199">IN: MTV Plus HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="_53" site_id="IN4#MTV.BEATS.in">IN: MTV BEATS HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="_54" site_id="ASIANTELEVISION1#MTV.India.dk">IN: MTV INDIA</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="_55" site_id="US_LOCALS2#MeTV.Plus.us">IN: MTV Plus HD</channel>
   <channel site="dishtv.in" lang="en" xmltv_id="MusicIndia.in" site_id="10000000002040000">IN: MUSIC INDIA</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="NDTVGoodTimes.in" site_id="ndtv-good-times/8965">IN: NDTV GOODTIMES NEWS</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="news-12/6002">IN: NEWS 18 HD</channel>
-  <channel site="dishtv.in" lang="en" xmltv_id="" site_id="143610">IN: NEWS 18 INDIA</channel>
-  <channel site="dishtv.in" lang="en" xmltv_id="" site_id="143618">IN: NEWS 18 RAJHASTAN</channel>
-  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN4#NEWS.24.in">IN: NEWS 24</channel>
-  <channel site="dishtv.in" lang="en" xmltv_id="" site_id="143596">IN: NEWS NATION</channel>
-  <channel site="dishtv.in" lang="en" xmltv_id="" site_id="143624">IN: NEWS X</channel>
-  <channel site="dishtv.in" lang="en" xmltv_id="" site_id="143646">IN: PEACE OF MIND</channel>
-  <channel site="dishtv.in" lang="en" xmltv_id="" site_id="10000000063500000">IN: REPUBLIC BHARAT</channel>
-  <channel site="dishtv.in" lang="en" xmltv_id="" site_id="143729">IN: Romedy Now HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="_56" site_id="ASIANTELEVISION1#NDTV.GoodTimes.dk">IN: NDTV GOODTIMES NEWS</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="_57" site_id="143610">IN: NEWS 18 INDIA</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="_58" site_id="143618">IN: NEWS 18 RAJHASTAN</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="_59" site_id="IN4#NEWS.24.in">IN: NEWS 24</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="_60" site_id="143596">IN: NEWS NATION</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="_61" site_id="143624">IN: NEWS X</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="_62" site_id="143646">IN: PEACE OF MIND</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="_63" site_id="10000000063500000">IN: REPUBLIC BHARAT</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="_64" site_id="143729">IN: Romedy Now HD</channel>
   <channel site="sky.com" lang="en" xmltv_id="RTENews.ie" site_id="2804">IN: RT NEWS</channel>
-  <channel site="dishtv.in" lang="en" xmltv_id="" site_id="143713">IN: SANSKAR TV</channel>
-  <channel site="dishtv.in" lang="en" xmltv_id="" site_id="143800">IN: SONY BBC EARTH HD</channel>
-  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#SONY.TV.HD.uk">IN: SONY HD</channel>
-  <channel site="dishtv.in" lang="en" xmltv_id="" site_id="143801">IN: SONY MAX 2</channel>
-  <channel site="dishtv.in" lang="en" xmltv_id="" site_id="10000000000540000">IN: SONY MAX HD</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="sony-mix/13694">IN: SONY MIX</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="sony-mix/13694">IN: SONY MIX UK</channel>
-  <channel site="dishtv.in" lang="en" xmltv_id="" site_id="157973">IN: SONY PAL</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="_65" site_id="143713">IN: SANSKAR TV</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="_66" site_id="143800">IN: SONY BBC EARTH HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="_67" site_id="UK1#SONY.TV.HD.uk">IN: SONY HD</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="_68" site_id="143801">IN: SONY MAX 2</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="_69" site_id="10000000000540000">IN: SONY MAX HD</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="_70" site_id="10000000000540000">IN: SONY MIX</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="_71" site_id="157973">IN: SONY PAL</channel>
   <channel site="dishtv.in" lang="en" xmltv_id="SonyPix.in" site_id="10000000000550000">IN: SONY PIX HD</channel>
-  <channel site="dishtv.in" lang="en" xmltv_id="SonyPix.in" site_id="10000000000550000">IN: SONY PIX HD-1</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="SonyPix.in_1" site_id="10000000000550000">IN: SONY PIX HD-1</channel>
   <channel site="dishtv.in" lang="en" xmltv_id="SonySAB.in" site_id="10000000000560000">IN: SONY SAB HD</channel>
-  <channel site="dishtv.in" lang="en" xmltv_id="SonySAB.in" site_id="10000000000560000">IN: SONY SAB TV</channel>
-  <channel site="dishtv.in" lang="en" xmltv_id="SonySAB.in" site_id="10000000000560000">IN: SONY SAB UK</channel>
-  <channel site="dishtv.in" lang="en" xmltv_id="" site_id="10000000000540000">IN: SONY SETMAX</channel>
-  <channel site="dishtv.in" lang="en" xmltv_id="" site_id="10000000000540000">IN: SONY SETMAX HD</channel>
-  <channel site="dishtv.in" lang="en" xmltv_id="SonyPix.in" site_id="10000000000550000">IN: SONY SIX</channel>
-  <channel site="dishtv.in" lang="en" xmltv_id="SonyPix.in" site_id="10000000000550000">IN: Sony six HD</channel>
-  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#SONY.TV.HD.uk">IN: SONY TV</channel>
-  <channel site="tv24.co.uk" lang="en" xmltv_id="" site_id="sony-entertainment-television-asia-hd">IN: SONY TV AUS</channel>
-  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="UK1#SONY.TV.HD.uk">IN: SONY TV HD</channel>
-  <channel site="dishtv.in" lang="en" xmltv_id="" site_id="157974">IN: SONY WAH</channel>
-  <channel site="dishtv.in" lang="en" xmltv_id="" site_id="157974">IN: SONY Wah HD</channel>
-  <channel site="dishtv.in" lang="en" xmltv_id="" site_id="159100">IN: SONY YAY</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="SonySAB.in_1" site_id="10000000000560000">IN: SONY SAB TV</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="SonySAB.in_2" site_id="10000000000560000">IN: SONY SAB UK</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="_72" site_id="10000000000540000">IN: SONY SETMAX</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="_73" site_id="10000000000540000">IN: SONY SETMAX HD</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="SonyPix.in_2" site_id="10000000000550000">IN: SONY SIX</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="SonyPix.in_3" site_id="10000000000550000">IN: Sony six HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="_74" site_id="UK1#SONY.TV.HD.uk">IN: SONY TV</channel>
+  <channel site="tv24.co.uk" lang="en" xmltv_id="_75" site_id="sony-entertainment-television-asia-hd">IN: SONY TV AUS</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="_76" site_id="UK1#SONY.TV.HD.uk">IN: SONY TV HD</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="_77" site_id="157974">IN: SONY WAH</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="_78" site_id="157974">IN: SONY Wah HD</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="_79" site_id="159100">IN: SONY YAY</channel>
   <channel site="dishtv.in" lang="en" xmltv_id="StarBharat.in" site_id="10000000053350000">IN: STAR BHARAT</channel>
-  <channel site="dishtv.in" lang="en" xmltv_id="StarBharat.in" site_id="10000000053350000">IN: STAR BHARAT APAC</channel>
-  <channel site="dishtv.in" lang="en" xmltv_id="StarBharat.in" site_id="10000000053350000">IN: STAR BHARAT UK</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="StarBharat.in_1" site_id="10000000053350000">IN: STAR BHARAT APAC</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="StarBharat.in_2" site_id="10000000053350000">IN: STAR BHARAT UK</channel>
   <channel site="dishtv.in" lang="en" xmltv_id="StarGold.in" site_id="10000000000110000">IN: STAR GOLD</channel>
-  <channel site="dishtv.in" lang="en" xmltv_id="StarGold.in" site_id="10000000000110000">IN: STAR GOLD HD</channel>
-  <channel site="dishtv.in" lang="en" xmltv_id="" site_id="143817">IN: STAR GOLD SELECT HD</channel>
-  <channel site="dishtv.in" lang="en" xmltv_id="" site_id="158297">IN: STAR GOLD UK</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="StarGold.in_1" site_id="10000000000110000">IN: STAR GOLD HD</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="_80" site_id="143817">IN: STAR GOLD SELECT HD</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="_81" site_id="158297">IN: STAR GOLD UK</channel>
   <channel site="dishtv.in" lang="en" xmltv_id="StarSportsSelect1.in" site_id="10000000027760000">IN: STAR INORTS SELECT 1</channel>
   <channel site="dishtv.in" lang="en" xmltv_id="StarSportsSelect2.in" site_id="10000000052670000">IN: STAR INORTS SELECT 2</channel>
   <channel site="dishtv.in" lang="en" xmltv_id="StarMovies.in" site_id="10000000000100000">IN: Star movies</channel>
   <channel site="dishtv.in" lang="en" xmltv_id="StarPlus.in" site_id="10000000000080000">IN: STAR PLUS</channel>
-  <channel site="dishtv.in" lang="en" xmltv_id="StarPlus.in" site_id="10000000000080000">IN: STAR PLUS HD</channel>
-  <channel site="dishtv.in" lang="en" xmltv_id="StarPlus.in" site_id="10000000000080000">IN: STAR PLUS HD UK</channel>
-  <channel site="dishtv.in" lang="en" xmltv_id="StarPlus.in" site_id="10000000000080000">IN: STAR PLUS ME</channel>
-  <channel site="dishtv.in" lang="en" xmltv_id="StarPlus.in" site_id="10000000000080000">IN: STAR PLUS UK</channel>
-  <channel site="dishtv.in" lang="en" xmltv_id="StarPlus.in" site_id="10000000000080000">IN: STAR PLUS USA</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="StarPlus.in_1" site_id="10000000000080000">IN: STAR PLUS HD</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="StarPlus.in_2" site_id="10000000000080000">IN: STAR PLUS HD UK</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="StarPlus.in_3" site_id="10000000000080000">IN: STAR PLUS ME</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="StarPlus.in_4" site_id="10000000000080000">IN: STAR PLUS UK</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="StarPlus.in_5" site_id="10000000000080000">IN: STAR PLUS USA</channel>
   <channel site="dishtv.in" lang="en" xmltv_id="StarSports1.in" site_id="10000000000190000">IN: STAR SPORTS 1</channel>
-  <channel site="dishtv.in" lang="en" xmltv_id="StarSports1.in" site_id="10000000000190000">IN: STAR SPORTS 1 HD</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="StarSports1.in_1" site_id="10000000000190000">IN: STAR SPORTS 1 HD</channel>
   <channel site="dishtv.in" lang="en" xmltv_id="StarSports1Hindi.in" site_id="10000000002650000">IN: STAR SPORTS 1 HINDI</channel>
-  <channel site="dishtv.in" lang="en" xmltv_id="StarSports1Hindi.in" site_id="10000000002650000">IN: STAR SPORTS 1 HINDI HD</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="StarSports1Hindi.in_1" site_id="10000000002650000">IN: STAR SPORTS 1 HINDI HD</channel>
   <channel site="dishtv.in" lang="en" xmltv_id="StarSports2.in" site_id="10000000014200000">IN: STAR SPORTS 2 HD</channel>
-  <channel site="dishtv.in" lang="en" xmltv_id="StarSports1.in" site_id="10000000000190000">IN: Star sports HD1</channel>
-  <channel site="dishtv.in" lang="en" xmltv_id="StarSports2.in" site_id="10000000014200000">IN: Star sports HD2</channel>
-  <channel site="dishtv.in" lang="en" xmltv_id="StarSportsSelect1.in" site_id="10000000027760000">IN: STAR SPORTS SELECT HD1</channel>
-  <channel site="dishtv.in" lang="en" xmltv_id="StarSportsSelect2.in" site_id="10000000052670000">IN: STAR SPORTS SELECT HD2</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="StarSports1.in_2" site_id="10000000000190000">IN: Star sports HD1</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="StarSports2.in_1" site_id="10000000014200000">IN: Star sports HD2</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="StarSportsSelect1.in_1" site_id="10000000027760000">IN: STAR SPORTS SELECT HD1</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="StarSportsSelect2.in_1" site_id="10000000052670000">IN: STAR SPORTS SELECT HD2</channel>
   <channel site="singtel.com" lang="en" xmltv_id="SunLife.in" site_id="5626">IN: SUN LIFE HD</channel>
   <channel site="dishtv.in" lang="en" xmltv_id="SunTV.in" site_id="10000000000570000">IN: Sun tv HD</channel>
-  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN4#SURYA.MOVIES.in">IN: Surya Movies HD</channel>
-  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN4#SURYA.TV.in">IN: Surya TV HD</channel>
-  <channel site="tv24.co.uk" lang="en" xmltv_id="" site_id="tnt-sports-uhd-4k">IN: Ten Sports HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="_82" site_id="IN4#SURYA.MOVIES.in">IN: Surya Movies HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="_83" site_id="IN4#SURYA.TV.in">IN: Surya TV HD</channel>
+  <channel site="tv24.co.uk" lang="en" xmltv_id="_84" site_id="tnt-sports-uhd-4k">IN: Ten Sports HD</channel>
   <channel site="dishtv.in" lang="en" xmltv_id="TimesNow.in" site_id="10000000000870000">IN: TIMES NOW HD</channel>
-  <channel site="dishtv.in" lang="en" xmltv_id="TimesNow.in" site_id="10000000000870000">IN: TIMES NOW SD</channel>
-  <channel site="dishtv.in" lang="en" xmltv_id="" site_id="158023">IN: TLC</channel>
-  <channel site="dishtv.in" lang="en" xmltv_id="" site_id="10000000007410000">IN: TRAVEL XP ENG HD</channel>
-  <channel site="dishtv.in" lang="en" xmltv_id="" site_id="10000000007410000">IN: TRAVEL XP HD</channel>
-  <channel site="dishtv.in" lang="en" xmltv_id="" site_id="144087">IN: WION TV</channel>
-  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN4#ZEE.ACTION.in">IN: ZEE ACTION</channel>
-  <channel site="dishtv.in" lang="en" xmltv_id="" site_id="144435">IN: ZEE ANMOL</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="TimesNow.in_1" site_id="10000000000870000">IN: TIMES NOW SD</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="_85" site_id="158023">IN: TLC</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="_86" site_id="10000000007410000">IN: TRAVEL XP ENG HD</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="_87" site_id="10000000007410000">IN: TRAVEL XP HD</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="_88" site_id="144087">IN: WION TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="_89" site_id="IN4#ZEE.ACTION.in">IN: ZEE ACTION</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="_90" site_id="144435">IN: ZEE ANMOL</channel>
   <channel site="dishtv.in" lang="en" xmltv_id="ZeeAnmolCinema.in" site_id="10000000048680000">IN: ZEE ANMOL CINEMA</channel>
-  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN4#Zee.Bioskop.in">IN: ZEE BIOSKOP</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="_91" site_id="IN4#Zee.Bioskop.in">IN: ZEE BIOSKOP</channel>
   <channel site="dishtv.in" lang="en" xmltv_id="ZeeBollywood.in" site_id="10000000060840000">IN: ZEE BOLLYWOOD HD</channel>
   <channel site="dishtv.in" lang="en" xmltv_id="ZeeBusiness.in" site_id="10000000001140000">IN: ZEE BUSINESS NEWS</channel>
-  <channel site="dishtv.in" lang="en" xmltv_id="" site_id="144441">IN: ZEE CAFE</channel>
-  <channel site="dishtv.in" lang="en" xmltv_id="" site_id="144441">IN: ZEE CAFE HD</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="_92" site_id="144441">IN: ZEE CAFE</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="_93" site_id="144441">IN: ZEE CAFE HD</channel>
   <channel site="dishtv.in" lang="en" xmltv_id="ZeeCinemaAsia.in" site_id="10000000007790000">IN: ZEE CINEMA</channel>
-  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN4#Zee.Cinema.USA.in">IN: ZEE CINEMA APAC</channel>
-  <channel site="dishtv.in" lang="en" xmltv_id="ZeeCinemaAsia.in" site_id="10000000007790000">IN: Zee Cinema HD</channel>
-  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN4#Zee.Cinema.UK.in">IN: ZEE CINEMA UK</channel>
-  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN4#Zee.Cinema.USA.in">IN: ZEE CINEMA USA</channel>
-  <channel site="dishtv.in" lang="en" xmltv_id="" site_id="144447">IN: ZEE CLASSIC</channel>
-  <channel site="dishtv.in" lang="en" xmltv_id="ZeeBollywood.in" site_id="10000000060840000">IN: ZEE ETC BOLLYWOOD</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="z-living-hd/31041">IN: ZEE LIVING</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="_94" site_id="IN4#Zee.Cinema.USA.in">IN: ZEE CINEMA APAC</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="ZeeCinemaAsia.in_1" site_id="10000000007790000">IN: Zee Cinema HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="_95" site_id="IN4#Zee.Cinema.UK.in">IN: ZEE CINEMA UK</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="_96" site_id="IN4#Zee.Cinema.USA.in">IN: ZEE CINEMA USA</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="_97" site_id="144447">IN: ZEE CLASSIC</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="ZeeBollywood.in_1" site_id="10000000060840000">IN: ZEE ETC BOLLYWOOD</channel>
   <channel site="dishtv.in" lang="en" xmltv_id="ZeeNews.in" site_id="10000000000930000">IN: ZEE News</channel>
-  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN4#ZEE.RAJASTHAN.NEWS.in">IN: ZEE RAJASTHAN NEWS</channel>
-  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN4#Zee.Salaam.in">IN: ZEE SALAAM</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="_98" site_id="IN4#ZEE.RAJASTHAN.NEWS.in">IN: ZEE RAJASTHAN NEWS</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="_99" site_id="IN4#Zee.Salaam.in">IN: ZEE SALAAM</channel>
   <channel site="dishtv.in" lang="en" xmltv_id="ZeeTV.in" site_id="10000000000200000">IN: ZEE TV</channel>
-  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN4#Zee.TV.APAC.in">IN: ZEE TV APAC</channel>
-  <channel site="dishtv.in" lang="en" xmltv_id="ZeeTV.in" site_id="10000000000200000">IN: ZEE TV HD</channel>
-  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN4#Zee.TV.HD.Canada.in">IN: ZEE TV HD CANADA</channel>
-  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN4#Zee.TV.ME.in">IN: ZEE TV ME</channel>
-  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN4#Zee.TV.HD.UK.in">IN: ZEE TV UK</channel>
-  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="US1#Zee.TV.USA.us">IN: ZEE TV USA</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="_100" site_id="IN4#Zee.TV.APAC.in">IN: ZEE TV APAC</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="ZeeTV.in_1" site_id="10000000000200000">IN: ZEE TV HD</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="_101" site_id="IN4#Zee.TV.HD.Canada.in">IN: ZEE TV HD CANADA</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="_102" site_id="IN4#Zee.TV.ME.in">IN: ZEE TV ME</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="_103" site_id="IN4#Zee.TV.HD.UK.in">IN: ZEE TV UK</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="_104" site_id="US1#Zee.TV.USA.us">IN: ZEE TV USA</channel>
   <channel site="dishtv.in" lang="en" xmltv_id="Zing.in" site_id="10000000000970000">IN: ZING TV</channel>
-  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN4#Zing.USA.in">IN: ZING TV USA</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="_105" site_id="IN4#Zing.USA.in">IN: ZING TV USA</channel>
   <channel site="dishtv.in" lang="en" xmltv_id="Zoom.in" site_id="10000000000690000">IN: ZOOM TV</channel>
   <channel site="singtel.com" lang="en" xmltv_id="Asianet.in" site_id="5638">IN: ASIANET</channel>
   <channel site="singtel.com" lang="ms" xmltv_id="AsianetMovies.in" site_id="5639">IN: ASIANET MOVIES</channel>
-  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="IN4#ASIANET.PLUS.in">IN: ASIANET PLUS</channel>
-  <channel site="dishtv.in" lang="en" xmltv_id="" site_id="142745">IN: CNBC Awaaz</channel>
-  <channel site="dishtv.in" lang="en" xmltv_id="" site_id="143713">IN: Sanskar TV</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="_106" site_id="IN4#ASIANET.PLUS.in">IN: ASIANET PLUS</channel>
+  <channel site="epgshare01.online" lang="ar" xmltv_id="_107" site_id="SA1#B4U.Plus.sa">IN: B4U PLUS</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="_108" site_id="142745">IN: CNBC Awaaz</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="_109" site_id="143713">IN: Sanskar TV</channel>
   <channel site="virgintvgo.virginmedia.com" lang="en" xmltv_id="SonyMax2.in" site_id="2032">IN: SONY MAX2</channel>
-  <channel site="dishtv.in" lang="en" xmltv_id="StarSports2.in" site_id="10000000014200000">IN: STAR SPORTS 2HD</channel>
-  <channel site="dishtv.in" lang="en" xmltv_id="" site_id="144432">IN: Zee 24 Kalak</channel>
-  <channel site="dishtv.in" lang="en" xmltv_id="" site_id="144447">IN: Zee Classic</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="StarSports2.in_2" site_id="10000000014200000">IN: STAR SPORTS 2HD</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="_110" site_id="144432">IN: Zee 24 Kalak</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="_111" site_id="144447">IN: Zee Classic</channel>
 </channels>

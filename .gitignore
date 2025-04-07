@@ -1,4 +1,5 @@
 # Ignore M3U playlist files
+~/.msmtprc
 *.m3u
 *.m3u8
 
